@@ -7,13 +7,13 @@ Para esta actividad elegimos al plan de la Universidad Modelo llamado **Ingenier
 Para fines de la comparativa elaboramos una presentación en donde ilustramos los puntos más importantes que diferencian a estos dos planes: 
 
 ### Integrantes del equipo
- - Hugo de Jesús Janssen Aguilar
- - Emiliano Contreras Gamboa
- - Alejandro Magdiel Duran Varela
- - Capi Madera de Regil
- - Jose Pablo Martinez Martinez
- - Edwing Mauricio Molina Chim
- - Sofia Reyes Rodriguez
+ - Hugo de Jesús Janssen Aguilar - *Participación 14%*
+ - Emiliano Contreras Gamboa - *Participación 14%*
+ - Alejandro Magdiel Duran Varela - *Participación 14%*
+ - Capi Madera de Regil - *Participación 14%*
+ - Jose Pablo Martinez Martinez - *Participación 14%*
+ - Edwing Mauricio Molina Chim - *Participación 14%*
+ - Sofia Reyes Rodriguez - *Participación 14%*
 
 ### Referencias
 - [Página de información de Ingeniería en desarrollo de tecnología y Software - Universidad Modelo](No%20title.%20%28s/f%29.%20Edu.mx.%20Recuperado%20el%2017%20de%20septiembre%20de%202023,%20de%20https://www.unimodelo.edu.mx/merida/licenciaturas/ingenieria-desarrollo-tecnologia-software-merida)
@@ -22,5 +22,5 @@ Para fines de la comparativa elaboramos una presentación en donde ilustramos lo
 - [Malla Curricular LIS MEFI - UADY](https://www.matematicas.uady.mx/files/documents/programas/lis/Malla-CurricularLIS-MEFI.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjI3NjgwNF19
+eyJoaXN0b3J5IjpbMzg4NDMxODg1LC02NDYyNzY4MDRdfQ==
 -->
