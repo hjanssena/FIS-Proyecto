@@ -24,7 +24,7 @@ Para esta actividad elegimos al plan de la Universidad Modelo llamado **Ingenier
 Para fines de la comparativa elaboramos una presentación en donde ilustramos los puntos más importantes que diferencian a estos dos planes: 
 
 - [Enlace a la presentación de Canva](https://www.canva.com/design/DAFuqeCqIbc/kndRMe1EHnI-UIO6nEt8dQ/edit?utm_content=DAFuqeCqIbc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
+- [Presentación de Canva] ([Enlace a la presentación de Canva]
 ># DOCUMENTACIÓN
 ## Archivos 
 1. **Documentos utilizados para la comparación de los planes de estudio de UADY y la Universidad Modelo**
