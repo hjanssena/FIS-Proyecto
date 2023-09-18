@@ -28,12 +28,16 @@ Para fines de la comparativa elaboramos una presentación en donde ilustramos lo
 ># DOCUMENTACIÓN
 ## Archivos 
 1. **Documentos utilizados para la comparación de los planes de estudio de UADY y la Universidad Modelo**
+
 <kbd>[Documentación](https://github.com/hjanssena/FIS-Proyecto/tree/0b0067bacdbe7f54244c1e2611e645f6cf21424a/Documentaci%C3%B3n)</kbd>
 
 2. **Imágenes para el Markdown**
+
 <kbd>[Imágenes](https://github.com/hjanssena/FIS-Proyecto/tree/0b0067bacdbe7f54244c1e2611e645f6cf21424a/Images)</kbd>
 
 3. **Documentos utilizados para la recopilación de información y organización del equipo**
+
+
 <kbd>[Organización](https://github.com/hjanssena/FIS-Proyecto/tree/0b0067bacdbe7f54244c1e2611e645f6cf21424a/Organizaci%C3%B3n)</kbd>
 
 ## Referencias
@@ -41,7 +45,6 @@ Para fines de la comparativa elaboramos una presentación en donde ilustramos lo
 - [Plan de estudios de Ingeniería en desarrollo de tecnología y Software - Universidad Modelo](https://drive.google.com/file/d/1ozm2bHykRS3EXDm9OI575Q0Fit62p_UH/view)
 - [Plan de estudios MEFI Ingeniería de Software - UADY](https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf)
 - [Malla Curricular LIS MEFI - UADY](https://www.matematicas.uady.mx/files/documents/programas/lis/Malla-CurricularLIS-MEFI.pdf)
-
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMzg4NDMxODg1XX0=
 -->
