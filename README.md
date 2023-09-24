@@ -2,10 +2,14 @@
 
 >![UADY Logo][image]
 
-[image]: https://github.com/hjanssena/FIS-Proyecto/blob/0b0067bacdbe7f54244c1e2611e645f6cf21424a/Images/Logo_UADY.png
+[image]: https://github.com/hjanssena/FIS-Proyecto/blob/51821d532b165e06113d6b3e2b2dfcfcaa65f2e7/Assets/Logo_UADY.png
 
 ---
 ### FMAT UADY
+>![UADY Logo][image]
+
+[image]: https://github.com/hjanssena/FIS-Proyecto/blob/51821d532b165e06113d6b3e2b2dfcfcaa65f2e7/Assets/Logo_FMAT.jpg
+
 ### Group A - FIS
 ### Edgar Cambranes Martínez
 ---
