@@ -6,10 +6,6 @@
 
 ---
 ### FMAT UADY
->![FMAT logo][image]
-
-[image]: https://github.com/hjanssena/FIS-Proyecto/blob/b155cda8379afd47aeaf8a83cf4f5b6473f73ffa/Assets/Logo_FMAT.jpg
-
 ### Group A - FIS
 ### Edgar Cambranes Martínez
 ---
