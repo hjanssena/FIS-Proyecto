@@ -11,7 +11,7 @@
 ---
 ## Presentación - Primera entrega
 - [HERE!]()
-- 
+
 ## Miembros del equipo
 
 ### Lider de equipo
@@ -26,7 +26,8 @@
  - Sofia Reyes Rodriguez 
 
 ## Producto - PitSTOP
- [image]: https://github.com/hjanssena/FIS-Proyecto/blob/51821d532b165e06113d6b3e2b2dfcfcaa65f2e7/Assets/Logo_PitSTOP.jpg
+
+<img src="https://github.com/hjanssena/FIS-Proyecto/blob/5b27fe233cfb94c14088c9de1308ea69ebce6c11/Assets/Logo_PitSTOP.jpg" width="500" height="500" border="50"/>
 
 ### Descripción
 El objetivo principal del sistema es permitirle a un negocio  pequeño de reparación de vehículos  tener un control de la  operación del día a día y de  igual  manera  empezar a  crear un  historial que le  permita  conocer  el  estado de  su  negocio a lo largo del  tiempo. El sistema debe ser simple y deberá reducir sus funciones a las más esenciales e importantes para el usuario final. De igual manerá le permitirá al usuario visualizar los indicadores que se generen con el uso del sistema como el ingreso de vehiculos y qué tipo de trabajos están ingresando.
@@ -40,20 +41,20 @@ Muchos sistemas actuales de organización  estan dirigidos para negocios de repa
 
 ### Más información 
 
-- [HERE!]()
+- [AQUI!](Producto/Product.md)
 
 ---
 ### Requerimientos
 
-- [HERE!]()
+- [AQUI!]()
 
 ### Investigación de Campo
 
-- [HERE!]()
+- [AQUI!](https://github.com/hjanssena/FIS-Proyecto/blob/d4e2137846f9641ad9e0998bac45105eecc70662/Artefactos/Investigaci%C3%B3n%20de%20campo.pdf)
 
 ## Nuestro Video [primera entrega]
 
-- [HERE!]()
+- [AQUI!]()
 
 ---
 
