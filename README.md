@@ -27,7 +27,7 @@
 
 ## Producto - PitSTOP
 
-<img src="https://github.com/hjanssena/FIS-Proyecto/blob/5b27fe233cfb94c14088c9de1308ea69ebce6c11/Assets/Logo_PitSTOP.jpg" width="500" height="500" border="50"/>
+<img src="https://github.com/hjanssena/FIS-Proyecto/blob/b3437fb56d8e14e01c90bac4d7f6ad1923f5de83/Assets/Logo_PitSTOP.jpg" width="500" height="500" border="50"/>
 
 ---
 
@@ -53,7 +53,7 @@ Muchos sistemas actuales de organización están dirigidos para negocios de repa
 ---
 ### Requerimientos
 
-- [¡AQUÍ!]()
+- [¡AQUÍ!](https://github.com/hjanssena/FIS-Proyecto/blob/b3437fb56d8e14e01c90bac4d7f6ad1923f5de83/Artefactos/Requerimientos%20funcionales%20y%20no%20funcionales.pdf)
 
 ### Investigación de Campo
 
