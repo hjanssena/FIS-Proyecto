@@ -7,9 +7,6 @@ Nos enfocamos esencialmente en la participación equitativa de todos los miembro
 
 Primero definimos cuales eran las actividades a realizar guiandonos con la rubrica de evaluación proporcionada, para despues repartirlas como previamente se menciona. La parte más importante del proceso fue la definicion de los requerimientos funcionales y no funcionales, Haciendo uso de lluvias de ideas para definir primero ideas generales que se irían puliendo en reuniones posteriores.
 
-
-
-
 ## ROLES Y RESPONSABILIDADES
 
 
