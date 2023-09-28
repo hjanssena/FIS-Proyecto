@@ -1,4 +1,5 @@
-> # First review "Cookie" team
+> # PRIMERA ENTREGA
+
 
 >![UADY Logo][image]
 
@@ -9,14 +10,16 @@
 ### Group A - FIS
 ### Edgar Cambranes Martínez
 ---
-## First Review presentation
 
-## Team members
+## Presentación - Primera entrega
+- [HERE!]()
 
-### Team's leader
+## Miembros del equipo
+
+### Lider de equipo
  - Hugo de Jesús Janssen Aguilar 
  
-### Development team
+### Equipo de desarrollo
  - Emiliano Contreras Gamboa 
  - Alejandro Magdiel Duran Varela
  - Capi Madera de Regil
@@ -24,34 +27,37 @@
  - Edwing Mauricio Molina Chim
  - Sofia Reyes Rodriguez 
 
-## Product - [Product's name]
- 
+## Producto - PitSTOP
 
-# [Product's image]
+<img src="https://github.com/hjanssena/FIS-Proyecto/blob/5b27fe233cfb94c14088c9de1308ea69ebce6c11/Assets/Logo_PitSTOP.jpg" width="500" height="500" border="50"/>
 
-### Description
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+### Descripción
+El objetivo principal del sistema es permitirle a un negocio  pequeño de reparación de vehículos  tener un control de la  operación del día a día y de  igual  manera  empezar a  crear un  historial que le  permita  conocer  el  estado de  su  negocio a lo largo del  tiempo. El sistema debe ser simple y deberá reducir sus funciones a las más esenciales e importantes para el usuario final. De igual manerá le permitirá al usuario visualizar los indicadores que se generen con el uso del sistema como el ingreso de vehiculos y qué tipo de trabajos están ingresando.
 
-### Target users
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+### Usuarios objetivo
+El usuario objetivo será todo taller de vehículos automotrices que no reciban más de 15 vehículos al día aproximadamente. Las funciones del sistema serán diseñadas para la operación de este tipo de negocios y la estructura común que tienen sus equipos. Igual podemos mencionar como usuarios objetivos secundarios a otors negocios de reparación que cuenten con sistemas de organización similares a los de un taller automotriz.
 
-### Innovation
+### Innovación
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Muchos sistemas actuales de organización  estan dirigidos para negocios de reparación de vehiculos grandes, por lo que cuentan con muchas funciones y requieren que el usurio final invierta mucho tiempo para mantenerse al día. La **propuesta de valor** de nuestro sistema es que se pueda integrar en la operación del negocio automotriz sin necesidad de invertir en cambios drásticos en la manera en que el taller opera o necesidad de una capacitación extensa. Se incluirán las funciones más importantes de una manera simple y concisa para que el sistema sea una ayuda y no un estorbo que quite tiempo al usuario.
 
----
-### Requirements
+### Más información 
 
-- [HERE!]()
-
-### Field research
-
-- [HERE!]()
+- [AQUI!](Producto/Product.md)
 
 ---
-### Process description
+### Requerimientos
 
---- 
-### Our presentation video [first delivery]
+- [AQUI!]()
 
-- [HERE!]()
+### Investigación de Campo
+
+- [AQUI!](https://github.com/hjanssena/FIS-Proyecto/blob/d4e2137846f9641ad9e0998bac45105eecc70662/Artefactos/Investigaci%C3%B3n%20de%20campo.pdf)
+
+## Nuestro Video [primera entrega]
+
+- [AQUI!]()
+
+---
+
+### Descripción del proceso
