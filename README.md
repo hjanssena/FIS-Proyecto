@@ -31,8 +31,6 @@
 
 ---
 
-### Descripción
-
 ### Problemática
 Muchos talleres pequeños no cuentan con buenos sistemas de gestión de servicios, usando mayoritariamente agendas en papel, notas, Excel o incluso, en el peor de los casos, no tienen un sistema de organización. Esto ocasiona problemas al momento de dar un buen servicio y al responder reclamos de los clientes por no manejar un buen historial.
 
