@@ -1,4 +1,4 @@
-# DESCRIPCION DEL PROCESO
+# DESCRIPCIÓN DEL PROCESO
 
 ## ORGANIZACIÓN
 
@@ -15,9 +15,9 @@ A lo largo del proceso cada uno fue desarrollando un **rol** en el equipo y se f
 ![ ](https://github.com/hjanssena/FIS-Proyecto/blob/EmilianoContreras/Assets/RolesResponsabilidades.png?raw=true)
 
 
-## METODOLOGIAS ÁGILES
+## METODOLOGÍAS ÁGILES
 
 
-No utilizamos por completo una **metodologia ágil**, sin embargo, adoptamos algunas caracteristicas que nos parecieron útiles y que encajaban bien con nuestra forma de trabajo del metodo SCRUM, en este caso, las **reuniones rapidas**, que se llevaron a cabo todos los dias en presencial o virtual dependiendo de las necesidades o condiciones del equipo.
+No utilizamos por completo una **metodología ágil**, sin embargo, adoptamos algunas caracteristicas que nos parecieron útiles y que encajaban bien con nuestra forma de trabajo del metodo SCRUM, en este caso, las **reuniones rápidas**, que se llevaron a cabo todos los dias en presencial o virtual dependiendo de las necesidades o condiciones del equipo.
 
-![ ](https://github.com/hjanssena/FIS-Proyecto/blob/EmilianoContreras/Assets/scrumMeting.png?raw=true)
+![Imagen SCRUM_Meting](https://github.com/hjanssena/FIS-Proyecto/blob/EmilianoContreras/Assets/scrumMeting.png?raw=true)

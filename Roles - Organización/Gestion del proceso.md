@@ -11,10 +11,12 @@
 
 
 
-### Herramientas usadas
+### Herramientas utilizadas
+
 - **Comunicación**: Whatsapp
 - **Juntas virtuales**: Discord
-- **Control de versiones**: Git
+- **Control de versiones**: Git y GitKraken
+- **Editores de código**: Visual Studio Code y StackEdit
 - **Host de repositorio**: GitHub
 - **Organización y seguimiento**: Excel y GitHub Projects
 - **Edición de video**: Filmora
