@@ -1,6 +1,5 @@
 > # PRIMERA ENTREGA
 
-
 >![UADY Logo][image]
 
 [image]: https://github.com/hjanssena/FIS-Proyecto/blob/51821d532b165e06113d6b3e2b2dfcfcaa65f2e7/Assets/Logo_UADY.png
