@@ -21,3 +21,4 @@ A lo largo del proceso cada uno fue desarrollando un **rol** en el equipo y se f
 No utilizamos por completo una **metodología ágil**, sin embargo, adoptamos algunas caracteristicas que nos parecieron útiles y que encajaban bien con nuestra forma de trabajo del metodo SCRUM, en este caso, las **reuniones rápidas**, que se llevaron a cabo todos los dias en presencial o virtual dependiendo de las necesidades o condiciones del equipo.
 
 ![Imagen SCRUM_Meting](https://github.com/hjanssena/FIS-Proyecto/blob/EmilianoContreras/Assets/scrumMeting.png?raw=true)
+
