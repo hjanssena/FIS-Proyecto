@@ -23,4 +23,4 @@ No utilizamos por completo una metodologia ágil, sin embargo, adoptamos algunas
 
 ![ReunionesRapidas][image]
 
-[image]: https://github.com/hjanssena/FIS-Proyecto/blob/EmilianoContreras/Assets/scrumMeting.jpeg?raw=true
+[image]: https://github.com/hjanssena/FIS-Proyecto/blob/EmilianoContreras/Assets/scrumMeting.png?raw=true
