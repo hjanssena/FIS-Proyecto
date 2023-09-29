@@ -10,7 +10,7 @@
 ### Edgar Cambranes Martínez
 ---
 ## Presentación para el video - Primera entrega
-- [¡AQUÍ!]()
+- [¡AQUÍ!](https://github.com/hjanssena/FIS-Proyecto/blob/1b850479848a613b03337866783e4895dcf1d97c/Artefactos/Presentacion%20que%20se%20uso%20en%20el%20video.pdf)
 
 ## Miembros del equipo
 
