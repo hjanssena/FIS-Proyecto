@@ -8,6 +8,7 @@
 ### FMAT UADY
 ### Group A - FIS
 ### Edgar Cambranes Martínez
+### [Lista de cotejo](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EUe1gdJxITZHumbyNAlsQ-AB_ubL6HO8S8BcjRGBRmnhtA?e=XYXzTr&nav=MTVfezkwQTQ4NURFLTE1OTgtNjM0QS05OEEzLURCNUU0MUE5N0UwOH0)
 ---
 ## Presentación para el video - Primera entrega
 - [¡AQUÍ!](https://github.com/hjanssena/FIS-Proyecto/blob/1b850479848a613b03337866783e4895dcf1d97c/Artefactos/Presentacion%20que%20se%20uso%20en%20el%20video.pdf)
