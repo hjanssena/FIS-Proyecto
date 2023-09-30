@@ -64,11 +64,7 @@ Muchos sistemas actuales de organización están dirigidos para negocios de repa
 
 ---
 
-### Descripción del proceso
-
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
-#### Más información sobre el proceso
+### Proceso
 
 - [¡Descripción del proceso!](https://github.com/hjanssena/FIS-Proyecto/blob/4d93c51256f2446f45f37a6df3f2b2a714662da6/Roles%20-%20Organizaci%C3%B3n/Descripcion%20del%20proceso.md)
 - [¡Gestión del proceso!](https://github.com/hjanssena/FIS-Proyecto/blob/4d93c51256f2446f45f37a6df3f2b2a714662da6/Roles%20-%20Organizaci%C3%B3n/Gestion%20del%20proceso.md)
