@@ -8,9 +8,10 @@
 ### FMAT UADY
 ### Group A - FIS
 ### Edgar Cambranes Martínez
+### [Lista de cotejo](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EUe1gdJxITZHumbyNAlsQ-AB_ubL6HO8S8BcjRGBRmnhtA?e=XYXzTr&nav=MTVfezkwQTQ4NURFLTE1OTgtNjM0QS05OEEzLURCNUU0MUE5N0UwOH0)
 ---
 ## Presentación para el video - Primera entrega
-- [¡AQUÍ!]()
+- [¡AQUÍ!](https://github.com/hjanssena/FIS-Proyecto/blob/1b850479848a613b03337866783e4895dcf1d97c/Artefactos/Presentacion%20que%20se%20uso%20en%20el%20video.pdf)
 
 ## Miembros del equipo
 
@@ -27,11 +28,9 @@
 
 ## Producto - PitSTOP
 
-<img src="https://github.com/hjanssena/FIS-Proyecto/blob/5b27fe233cfb94c14088c9de1308ea69ebce6c11/Assets/Logo_PitSTOP.jpg" width="500" height="500" border="50"/>
+<img src="https://github.com/hjanssena/FIS-Proyecto/blob/b3437fb56d8e14e01c90bac4d7f6ad1923f5de83/Assets/Logo_PitSTOP.jpg" width="500" height="500" border="50"/>
 
 ---
-
-### Descripción
 
 ### Problemática
 Muchos talleres pequeños no cuentan con buenos sistemas de gestión de servicios, usando mayoritariamente agendas en papel, notas, Excel o incluso, en el peor de los casos, no tienen un sistema de organización. Esto ocasiona problemas al momento de dar un buen servicio y al responder reclamos de los clientes por no manejar un buen historial.
@@ -53,7 +52,7 @@ Muchos sistemas actuales de organización están dirigidos para negocios de repa
 ---
 ### Requerimientos
 
-- [¡AQUÍ!]()
+- [¡AQUÍ!](https://github.com/hjanssena/FIS-Proyecto/blob/b3437fb56d8e14e01c90bac4d7f6ad1923f5de83/Artefactos/Requerimientos%20funcionales%20y%20no%20funcionales.pdf)
 
 ### Investigación de Campo
 
@@ -61,15 +60,11 @@ Muchos sistemas actuales de organización están dirigidos para negocios de repa
 
 ## Nuestro Video [primera entrega]
 
-- [¡AQUÍ!]()
+- [Primera entrega](https://alumnosuady-my.sharepoint.com/:v:/g/personal/a23216377_alumnos_uady_mx/ERZffhl0FzRMr0ZmMLes74UBog48Jy_V4Xs_pvX1Fy_-hw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=lJxXgG)
 
 ---
 
-### Descripción del proceso
-
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
-#### Más información sobre el proceso
+### Proceso
 
 - [¡Descripción del proceso!](https://github.com/hjanssena/FIS-Proyecto/blob/4d93c51256f2446f45f37a6df3f2b2a714662da6/Roles%20-%20Organizaci%C3%B3n/Descripcion%20del%20proceso.md)
 - [¡Gestión del proceso!](https://github.com/hjanssena/FIS-Proyecto/blob/4d93c51256f2446f45f37a6df3f2b2a714662da6/Roles%20-%20Organizaci%C3%B3n/Gestion%20del%20proceso.md)
