@@ -10,7 +10,7 @@
 ### Edgar Cambranes Martínez
 ---
 ## Presentación para el video - Primera entrega
-- [¡AQUÍ!]()
+- [¡AQUÍ!](https://github.com/hjanssena/FIS-Proyecto/blob/1b850479848a613b03337866783e4895dcf1d97c/Artefactos/Presentacion%20que%20se%20uso%20en%20el%20video.pdf)
 
 ## Miembros del equipo
 
@@ -59,7 +59,7 @@ Muchos sistemas actuales de organización están dirigidos para negocios de repa
 
 ## Nuestro Video [primera entrega]
 
-- [¡AQUÍ!]()
+- [Primera entrega](https://alumnosuady-my.sharepoint.com/:v:/g/personal/a23216377_alumnos_uady_mx/ERZffhl0FzRMr0ZmMLes74UBog48Jy_V4Xs_pvX1Fy_-hw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=lJxXgG)
 
 ---
 
