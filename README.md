@@ -68,3 +68,9 @@ Muchos sistemas actuales de organización están dirigidos para negocios de repa
 
 - [¡Descripción del proceso!](https://github.com/hjanssena/FIS-Proyecto/blob/4d93c51256f2446f45f37a6df3f2b2a714662da6/Roles%20-%20Organizaci%C3%B3n/Descripcion%20del%20proceso.md)
 - [¡Gestión del proceso!](https://github.com/hjanssena/FIS-Proyecto/blob/4d93c51256f2446f45f37a6df3f2b2a714662da6/Roles%20-%20Organizaci%C3%B3n/Gestion%20del%20proceso.md)
+
+---
+
+### Competencias
+- [¡Competencias específicas!](https://github.com/hjanssena/FIS-Proyecto/blob/d8cd48ee42a0d9413f1b9031733ff46a13abb44b/Competencias/Competencias%20especi%CC%81ficas.pdf)
+- [¡Competencias genéricas!](https://github.com/hjanssena/FIS-Proyecto/blob/d8cd48ee42a0d9413f1b9031733ff46a13abb44b/Competencias/Competencias%20generales.pdf)
