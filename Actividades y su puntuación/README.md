@@ -5,7 +5,7 @@ Las actividades realizadas y el porcentaje de participación de cada integrante 
 [Actividades y participación](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EcQGlejS_0lLu2S25QXK0X0BYel4qr0IgwFugTt-Oa0ROw?e=LicBfT)
 ---
 
-## Metrica de actividades resumida
+## Métrica de actividades resumida
 
 | Actividad   | Responsable 1 | Responsable 2 | Peso |
 | ---------- | :---------: | :----------: | :---------: |
