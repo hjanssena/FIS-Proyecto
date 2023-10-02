@@ -8,6 +8,7 @@
 ### FMAT UADY
 ### Group A - FIS
 ### Edgar Cambranes Martínez
+### [Lista de cotejo](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EUe1gdJxITZHumbyNAlsQ-AB_ubL6HO8S8BcjRGBRmnhtA?e=XYXzTr&nav=MTVfezkwQTQ4NURFLTE1OTgtNjM0QS05OEEzLURCNUU0MUE5N0UwOH0)
 ---
 ## Presentación para el video - Primera entrega
 - [¡AQUÍ!](https://github.com/hjanssena/FIS-Proyecto/blob/1b850479848a613b03337866783e4895dcf1d97c/Artefactos/Presentacion%20que%20se%20uso%20en%20el%20video.pdf)
@@ -63,11 +64,13 @@ Muchos sistemas actuales de organización están dirigidos para negocios de repa
 
 ---
 
-### Descripción del proceso
-
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
-#### Más información sobre el proceso
+### Proceso
 
 - [¡Descripción del proceso!](https://github.com/hjanssena/FIS-Proyecto/blob/4d93c51256f2446f45f37a6df3f2b2a714662da6/Roles%20-%20Organizaci%C3%B3n/Descripcion%20del%20proceso.md)
 - [¡Gestión del proceso!](https://github.com/hjanssena/FIS-Proyecto/blob/4d93c51256f2446f45f37a6df3f2b2a714662da6/Roles%20-%20Organizaci%C3%B3n/Gestion%20del%20proceso.md)
+
+---
+
+### Competencias
+- [¡Competencias específicas!](https://github.com/hjanssena/FIS-Proyecto/blob/d8cd48ee42a0d9413f1b9031733ff46a13abb44b/Competencias/Competencias%20especi%CC%81ficas.pdf)
+- [¡Competencias genéricas!](https://github.com/hjanssena/FIS-Proyecto/blob/d8cd48ee42a0d9413f1b9031733ff46a13abb44b/Competencias/Competencias%20generales.pdf)
