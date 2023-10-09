@@ -46,5 +46,5 @@ Para fines de la comparativa elaboramos una presentación en donde ilustramos lo
 - [Plan de estudios MEFI Ingeniería de Software - UADY](https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf)
 - [Malla Curricular LIS MEFI - UADY](https://www.matematicas.uady.mx/files/documents/programas/lis/Malla-CurricularLIS-MEFI.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg4NDMxODg1XX0=
+eyJoaXN0b3J5IjpbLTE2NDA5MzU4NzEsMzg4NDMxODg1XX0=
 -->
