@@ -1,7 +1,7 @@
-# Acerca De
-_**Información a cerca de los integrantes que comprenden el equipo de desarrollo**_
+# About
+_**Information about the team members that make up the development team**_
 
-| Fotos    | Descripción LinkedIn |
+| Photos   | LinkedIn Description |
 | :----------: | ---------- | 
 |<img src="https://github.com/hjanssena/FIS-Proyecto/blob/5d2ba7ef3681f646a8feee988647e303018f1330/Assets/CapiMaderaDeRegil.jpeg" width="100" height="120" border="10"/>            | My name is Capi Madera De Regil, and I am currently pursuing a Bachelor's degree in Software Engineering at the Faculty of Mathematics of the Autonomous University of Yucatan. I have technical skills and proficiency in Photoshop, Illustrator, Unity, and the C# programming language. I have a high level of English, certified by Cambridge, and I have experience collaborating with teams and communicating with clients.|
 |<img src="https://github.com/hjanssena/FIS-Proyecto/blob/bcd556ce2a859931295c1e472d012e36a3833b53/Assets/Foto%20JPabloMtz.jpeg"/>                  |I am José Pablo Martínez Martínez, a new student in the Software Engineering program at the Faculty of Mathematics at UADY. I completed my high school education at Preparatory School One (UADY). I am a responsible, organized, resilient, and collaborative individual when working in teams. I am currently interested in further improving my communication skills. I possess skills in digital marketing, customer service, and intermediate to high-level English (B2). |

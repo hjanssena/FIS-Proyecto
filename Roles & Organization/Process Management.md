@@ -2,16 +2,15 @@
 
 
 ### Activities
-- Three main meetings (Brainstorming for functional requirements, non-functional requirements, and pre-delivery review):
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
-- Agreements from the first meeting: Work is divided in GitHub projects, and a draft of the functional requirements is created.
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
-- Agreements from the second meeting: A draft of the non-functional requirements is created, a project name is decided upon, and - deadlines for pending tasks are set.
 
-- Agreements from the third meeting: The video dialogue is recorded, missing components are reviewed, and documentation is checked.
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 - Tasks were assigned using an Excel sheet in Office 365, where each team member selects which activity they are responsible for.
-![Se repartieron las actividades para la primera entrega señalando quien es el responsable de cada una](https://atsuro0.s-ul.eu/RZJsKpIK)
+![The activities for the first delivery were distributed, indicating who is responsible for each one]()
 - Quick meetings were held to review progress on assigned tasks.
 
 
