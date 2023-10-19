@@ -1,8 +1,7 @@
-> # PRIMERA ENTREGA
+> # FIRST DELIVERY
 
->![UADY Logo][image]
+>![UADY logo](https://github.com/hjanssena/FIS-Proyecto/blob/JPabloMartinez/Assets/Logo_UADY.png?raw=true)
 
-[image]: https://github.com/hjanssena/FIS-Proyecto/blob/51821d532b165e06113d6b3e2b2dfcfcaa65f2e7/Assets/Logo_UADY.png
 
 ---
 ### FMAT UADY
@@ -10,15 +9,15 @@
 ### Edgar Cambranes Martínez
 ### [Lista de cotejo](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EUe1gdJxITZHumbyNAlsQ-AB_ubL6HO8S8BcjRGBRmnhtA?e=XYXzTr&nav=MTVfezkwQTQ4NURFLTE1OTgtNjM0QS05OEEzLURCNUU0MUE5N0UwOH0)
 ---
-## Presentación para el video - Primera entrega
-- [¡AQUÍ!](https://github.com/hjanssena/FIS-Proyecto/blob/1b850479848a613b03337866783e4895dcf1d97c/Artefactos/Presentacion%20que%20se%20uso%20en%20el%20video.pdf)
+## Video presentation - First delivery
+- [HERE!](https://github.com/hjanssena/FIS-Proyecto/blob/d8c0d0196a7b1681dc14ae3724a6fd7d736ceb80/Artifacts/Presentacion%20que%20se%20uso%20en%20el%20video.pdf)
 
-## Miembros del equipo
+## TEAM
 
-### Lider de equipo
+### SCRUM master
  - Hugo de Jesús Janssen Aguilar 
  
-### Equipo de desarrollo
+### Development team
  - Emiliano Contreras Gamboa 
  - Alejandro Magdiel Duran Varela
  - Capi Madera de Regil
@@ -26,51 +25,52 @@
  - Edwing Mauricio Molina Chim
  - Sofia Reyes Rodriguez 
 
-## Producto - PitSTOP
+## Our Product - PitSTOP
 
 <img src="https://github.com/hjanssena/FIS-Proyecto/blob/b3437fb56d8e14e01c90bac4d7f6ad1923f5de83/Assets/Logo_PitSTOP.jpg" width="500" height="500" border="50"/>
 
 ---
 
-### Problemática
-Muchos talleres pequeños no cuentan con buenos sistemas de gestión de servicios, usando mayoritariamente agendas en papel, notas, Excel o incluso, en el peor de los casos, no tienen un sistema de organización. Esto ocasiona problemas al momento de dar un buen servicio y al responder reclamos de los clientes por no manejar un buen historial.
+### Problematic description
+Many small workshops lack proper service management systems, primarily relying on paper agendas, notes, Excel, or, in the worst cases, having no organizational system at all. This leads to issues when providing good service and addressing customer complaints due to the absence of a robust service history management.
 
-El **objetivo principal** del sistema es permitirle a un negocio pequeño de reparación de vehículos tener un control de la operación del día a día y de igual manera empezar a crear un historial que le permita conocer el estado de su negocio a lo largo del tiempo. El sistema debe ser simple y deberá reducir sus funciones a las más esenciales e importantes para el usuario final. De igual manera, le permitirá al usuario visualizar los indicadores que se generen con el uso del sistema como el ingreso de vehículos y qué tipo de trabajos están ingresando.
+The **system's main objetive** is to enable a small vehicle repair business to have control over day-to-day operations and, at the same time, start building a history that allows them to understand the state of their business over time. The system should be simple and should streamline its functions to the most essential and important ones for the end user. Likewise, it will allow the user to view the indicators generated through system usage, such as vehicle intake and the types of jobs being processed.
 
-### Usuarios objetivo
-El usuario objetivo será todo taller de vehículos automotrices que no reciban más de 15 vehículos al día aproximadamente. Las funciones del sistema serán diseñadas para la operación de este tipo de negocios y la estructura común que tienen sus equipos. Igual podemos mencionar como usuarios objetivos secundarios a otros negocios de reparación que cuenten con sistemas de organización similares a los de un taller automotriz.
+### Target Users
 
-### Innovación
+The target user will be any workshop that receives no more than approximately 15 vehicles per day. The system functions will be designed for the operation of such businesses and the common structure of their equipment. Additionally, we can mention other repair businesses with similar organizational systems to that of an automotive workshop as secondary target users.
 
-Muchos sistemas actuales de organización están dirigidos para negocios de reparación de vehículos grandes, por lo que cuentan con muchas funciones y requieren que el usuario final invierta mucho tiempo para mantenerse al día. La propuesta de valor del sistema es que se pueda integrar en la operación del negocio automotriz sin necesidad de invertir en cambios drásticos en la manera en que el taller opera o necesidad de una capacitación extensa, siendo más simple y menos costoso para los usuarios. Se incluirán las funciones más importantes de una manera simple y concisa para que el sistema sea una ayuda y no un estorbo que quite tiempo al usuario.
+### Innovation
+Many current organizational systems are designed for large vehicle repair businesses, offering numerous functions that require the end user to invest a significant amount of time to keep up with them. The system's value proposition is that it can be integrated into the automotive business's operations without the need for significant changes in the way the workshop operates or extensive training, making it simpler and more cost-effective for users. The most important functions will be included in a simple and concise manner so that the system serves as an aid rather than a hindrance that consumes the user's time.
 
 
-### Más información 
 
-- [¡AQUÍ!](Producto/Product.md)
+### More information bout
 
----
-### Requerimientos
-
-- [¡AQUÍ!](https://github.com/hjanssena/FIS-Proyecto/blob/b3437fb56d8e14e01c90bac4d7f6ad1923f5de83/Artefactos/Requerimientos%20funcionales%20y%20no%20funcionales.pdf)
-
-### Investigación de Campo
-
-- [¡AQUÍ!](https://github.com/hjanssena/FIS-Proyecto/blob/d4e2137846f9641ad9e0998bac45105eecc70662/Artefactos/Investigaci%C3%B3n%20de%20campo.pdf)
-
-## Nuestro Video [primera entrega]
-
-- [Primera entrega](https://alumnosuady-my.sharepoint.com/:v:/g/personal/a23216377_alumnos_uady_mx/ERZffhl0FzRMr0ZmMLes74UBog48Jy_V4Xs_pvX1Fy_-hw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=lJxXgG)
+- [HERE!](Product/Product.md)
 
 ---
+### Requirements
 
-### Proceso
+- [HERE!](https://github.com/hjanssena/FIS-Proyecto/blob/d8c0d0196a7b1681dc14ae3724a6fd7d736ceb80/Artifacts/Requerimientos%20funcionales%20y%20no%20funcionales.pdf)
 
-- [¡Descripción del proceso!](https://github.com/hjanssena/FIS-Proyecto/blob/4d93c51256f2446f45f37a6df3f2b2a714662da6/Roles%20-%20Organizaci%C3%B3n/Descripcion%20del%20proceso.md)
-- [¡Gestión del proceso!](https://github.com/hjanssena/FIS-Proyecto/blob/4d93c51256f2446f45f37a6df3f2b2a714662da6/Roles%20-%20Organizaci%C3%B3n/Gestion%20del%20proceso.md)
+### Field research
+- [HERE!](https://github.com/hjanssena/FIS-Proyecto/blob/d8c0d0196a7b1681dc14ae3724a6fd7d736ceb80/Artifacts/Investigaci%C3%B3n%20de%20campo.pdf)
+
+## Our video [First delivery]
+
+- [FIRST DELIVERY](https://alumnosuady-my.sharepoint.com/:v:/g/personal/a23216377_alumnos_uady_mx/ERZffhl0FzRMr0ZmMLes74UBog48Jy_V4Xs_pvX1Fy_-hw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=lJxXgG)
 
 ---
 
-### Competencias
-- [¡Competencias específicas!](https://github.com/hjanssena/FIS-Proyecto/blob/d8cd48ee42a0d9413f1b9031733ff46a13abb44b/Competencias/Competencias%20especi%CC%81ficas.pdf)
-- [¡Competencias genéricas!](https://github.com/hjanssena/FIS-Proyecto/blob/d8cd48ee42a0d9413f1b9031733ff46a13abb44b/Competencias/Competencias%20generales.pdf)
+### Process
+
+- [Process description!](https://github.com/hjanssena/FIS-Proyecto/blob/d74b3f2d681bf83ab23cee612ec9530043c8184f/Roles%20%26%20Organization/Process%20description.md)
+- [Process management!](https://github.com/hjanssena/FIS-Proyecto/blob/a6264763d6cab771232dda1dfda64ff08c6235b2/Roles%20%26%20Organization/Process%20Management.md)
+
+---
+
+### SKILLS
+
+- [Specific skills!](https://github.com/hjanssena/FIS-Proyecto/blob/a6264763d6cab771232dda1dfda64ff08c6235b2/Skills/Competencias%20especi%CC%81ficas.pdf)
+- [Generic skills!](https://github.com/hjanssena/FIS-Proyecto/blob/a6264763d6cab771232dda1dfda64ff08c6235b2/Skills/Competencias%20generales.pdf)
