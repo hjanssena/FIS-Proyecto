@@ -5,7 +5,7 @@ The activities performed and the percentage of participation of each team member
 [Activities & score](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EcQGlejS_0lLu2S25QXK0X0BYel4qr0IgwFugTt-Oa0ROw?e=LicBfT)
 ---
 
-## Métrica de actividades resumida
+## Summarized activity metrics
 
 | Activity   | Responsible 1 | Responsible 2 | Score |
 | ---------- | :---------: | :----------: | :---------: |
