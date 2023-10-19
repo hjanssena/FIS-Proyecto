@@ -7,7 +7,7 @@
 ### FMAT UADY
 ### Group A - FIS
 ### Edgar Cambranes Martínez
-### [Lista de cotejo]()
+### [Checklist]()
 ---
 ## Video presentation - Second delivery
 - [HERE!]()
