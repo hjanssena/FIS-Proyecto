@@ -1,8 +1,9 @@
 > # FIRST DELIVERY
 
->![UADY Logo][image]
+>![UADY_Logo][image]
 
-[image]: https://github.com/hjanssena/FIS-Proyecto/blob/51821d532b165e06113d6b3e2b2dfcfcaa65f2e7/Assets/Logo_UADY.png
+[image]: https://github.com/hjanssena/FIS-Proyecto/blob/d8c0d0196a7b1681dc14ae3724a6fd7d736ceb80/Assets/Logo_UADY.png
+
 
 ---
 ### FMAT UADY
@@ -11,7 +12,7 @@
 ### [Lista de cotejo](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EUe1gdJxITZHumbyNAlsQ-AB_ubL6HO8S8BcjRGBRmnhtA?e=XYXzTr&nav=MTVfezkwQTQ4NURFLTE1OTgtNjM0QS05OEEzLURCNUU0MUE5N0UwOH0)
 ---
 ## Video presentation - First delivery
-- [HERE!](https://github.com/hjanssena/FIS-Proyecto/blob/1b850479848a613b03337866783e4895dcf1d97c/Artefactos/Presentacion%20que%20se%20uso%20en%20el%20video.pdf)
+- [HERE!](https://github.com/hjanssena/FIS-Proyecto/blob/d8c0d0196a7b1681dc14ae3724a6fd7d736ceb80/Artifacts/Presentacion%20que%20se%20uso%20en%20el%20video.pdf)
 
 ## TEAM
 
@@ -48,15 +49,15 @@ Many current organizational systems are designed for large vehicle repair busine
 
 ### More information bout
 
-- [HERE!](Producto/Product.md)
+- [HERE!](Product/Product.md)
 
 ---
 ### Requirements
 
-- [HERE!](https://github.com/hjanssena/FIS-Proyecto/blob/b3437fb56d8e14e01c90bac4d7f6ad1923f5de83/Artefactos/Requerimientos%20funcionales%20y%20no%20funcionales.pdf)
+- [HERE!](https://github.com/hjanssena/FIS-Proyecto/blob/d8c0d0196a7b1681dc14ae3724a6fd7d736ceb80/Artifacts/Requerimientos%20funcionales%20y%20no%20funcionales.pdf)
 
 ### Field research
-- [HERE!](https://github.com/hjanssena/FIS-Proyecto/blob/d4e2137846f9641ad9e0998bac45105eecc70662/Artefactos/Investigaci%C3%B3n%20de%20campo.pdf)
+- [HERE!](https://github.com/hjanssena/FIS-Proyecto/blob/d8c0d0196a7b1681dc14ae3724a6fd7d736ceb80/Artifacts/Investigaci%C3%B3n%20de%20campo.pdf)
 
 ## Our video [First delivery]
 
@@ -66,12 +67,12 @@ Many current organizational systems are designed for large vehicle repair busine
 
 ### Process
 
-- [Process description!](https://github.com/hjanssena/FIS-Proyecto/blob/4d93c51256f2446f45f37a6df3f2b2a714662da6/Roles%20-%20Organizaci%C3%B3n/Descripcion%20del%20proceso.md)
-- [Process management!](https://github.com/hjanssena/FIS-Proyecto/blob/4d93c51256f2446f45f37a6df3f2b2a714662da6/Roles%20-%20Organizaci%C3%B3n/Gestion%20del%20proceso.md)
+- [Process description!](https://github.com/hjanssena/FIS-Proyecto/blob/d74b3f2d681bf83ab23cee612ec9530043c8184f/Roles%20%26%20Organization/Process%20description.md)
+- [Process management!](https://github.com/hjanssena/FIS-Proyecto/blob/a6264763d6cab771232dda1dfda64ff08c6235b2/Roles%20%26%20Organization/Process%20Management.md)
 
 ---
 
 ### SKILLS
 
-- [Specific skills!](https://github.com/hjanssena/FIS-Proyecto/blob/d8cd48ee42a0d9413f1b9031733ff46a13abb44b/Competencias/Competencias%20especi%CC%81ficas.pdf)
-- [Generic skills!](https://github.com/hjanssena/FIS-Proyecto/blob/d8cd48ee42a0d9413f1b9031733ff46a13abb44b/Competencias/Competencias%20generales.pdf)
+- [Specific skills!](https://github.com/hjanssena/FIS-Proyecto/blob/a6264763d6cab771232dda1dfda64ff08c6235b2/Skills/Competencias%20especi%CC%81ficas.pdf)
+- [Generic skills!](https://github.com/hjanssena/FIS-Proyecto/blob/a6264763d6cab771232dda1dfda64ff08c6235b2/Skills/Competencias%20generales.pdf)
