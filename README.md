@@ -1,6 +1,6 @@
 > # FIRST DELIVERY
 
->![UADY logo](Assets/Logo_UADY.png)
+>![UADY logo](https://github.com/hjanssena/FIS-Proyecto/blob/JPabloMartinez/Assets/Logo_UADY.png?raw=true)
 
 
 ---
