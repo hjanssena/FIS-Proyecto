@@ -1,8 +1,6 @@
 > # FIRST DELIVERY
 
->![UADY_Logo][image]
-
-[image]: https://github.com/hjanssena/FIS-Proyecto/blob/d8c0d0196a7b1681dc14ae3724a6fd7d736ceb80/Assets/Logo_UADY.png
+>![UADY logo](Assets/Logo_UADY.png)
 
 
 ---
