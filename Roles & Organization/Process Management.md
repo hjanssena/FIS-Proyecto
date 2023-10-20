@@ -11,8 +11,8 @@
 
 - Tasks were assigned using an Excel sheet in Office 365, where each team member selects which activity they are responsible for.
 ![The activities for the first delivery were distributed, indicating who is responsible for each one]()
-- Quick meetings were held to review progress on assigned tasks.
 
+- Quick meetings were held to review progress on assigned tasks.
 
 
 ### TOOLS USED
