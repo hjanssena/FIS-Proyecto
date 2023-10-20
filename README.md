@@ -79,9 +79,9 @@
 #### Learn more about the process
 - [Process description!]()
   
-- [Process management!](Roles & Organization\Process Management.md)
+- [Process management!](https://github.com/hjanssena/FIS-Proyecto/blob/47b9eb71d87b19e115ef116962543da322280a81/Roles%20%26%20Organization/Process%20Management.md)
 
-## Desing (UI/UX)
+## Design (UI/UX)
 
 We created a user interface [prototype](), which was made using [Figma]().
 
