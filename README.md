@@ -70,11 +70,11 @@ We had to eliminate or modify many of the functional requirements, as we discove
 
 ### Artifacts evolution
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+A series of use case specifications were developed where each functional requirement was described in terms of how a user would use it. Likewise, the use case diagram was improved from the one in the first delivery.
 
-- [OLD HERE!]()
+- [Use Case Diagram]()
 
-- [NEW HERE!]()
+- [Use Case Specifications](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EYczFlZ-P7hMvsU24l4KoicBFqIizoKz6LvKhqTFET9rjQ?e=gYGnAi)
 
 ## Our video [Second delivery]
 
