@@ -51,7 +51,7 @@ In addition, a complete review of the requirements was made, resulting in a more
 
 ### More information about
 
-- [HERE!]()
+- [HERE!](https://github.com/hjanssena/FIS-Proyecto/tree/8bcf9cf14cb7ba1417732637ee52c1f7d38d323a/Product)
 
 
 ## Requirements
@@ -66,19 +66,19 @@ We had to eliminate or modify many of the functional requirements, as we discove
 
 **Comparison between old and new requeriments**
 
-- [HERE!]() PENDIENTE
+- [HERE!]() **PENDIENTE**
 
 ### Artifacts evolution
 
 A series of use case specifications were developed where each functional requirement was described in terms of how a user would use it. Likewise, the use case diagram was improved from the one in the first delivery.
 
-- [Use Case Diagram]()
+- [Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/8bcf9cf14cb7ba1417732637ee52c1f7d38d323a/Artifacts/UML-Use-Case-Diagram.pdf)
 
 - [Use Case Specifications](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EYczFlZ-P7hMvsU24l4KoicBFqIizoKz6LvKhqTFET9rjQ?e=gYGnAi)
 
 ## Our video [Second delivery]
 
-- [SECOND DELIVERY]()
+- [SECOND DELIVERY]() **PENDIENTE**
 
 ---
 
@@ -91,9 +91,9 @@ For this second delivery, we have employed concepts from the incremental lifecyc
 Regarding the use of the SCRUM Agile methodology, we did not utilize all its elements for our project, but only the features we considered relevant for our team's effective organization. The project was carried out in a series of sprints, which will be detailed later, as increments. However, daily team meetings were not conducted due to time constraints; instead, we opted for weekly meetings. We employed SCRUM roles (Product Owner, Scrum Master, and Development Team) for team organization. 
 
 #### Learn more about the process
-- [Process description!]()
+- [Process description!](https://github.com/hjanssena/FIS-Proyecto/blob/8bcf9cf14cb7ba1417732637ee52c1f7d38d323a/Roles%20%26%20Organization/Process%20description.md)
   
-- [Process management!](https://github.com/hjanssena/FIS-Proyecto/blob/47b9eb71d87b19e115ef116962543da322280a81/Roles%20%26%20Organization/Process%20Management.md)
+- [Process management!](https://github.com/hjanssena/FIS-Proyecto/blob/8bcf9cf14cb7ba1417732637ee52c1f7d38d323a/Roles%20%26%20Organization/Process%20Management.md)
 
 ## Design (UI/UX)
 
@@ -111,5 +111,5 @@ We created a user interface [prototype](https://www.figma.com/file/QQ6kXK1QVzeRA
 
 ### SKILLS
 
-- [Specific skills!]()
-- [Generic skills!]()
+- [Specific skills!](https://github.com/hjanssena/FIS-Proyecto/blob/8bcf9cf14cb7ba1417732637ee52c1f7d38d323a/Skills/General-skills.md)
+- [Generic skills!](https://github.com/hjanssena/FIS-Proyecto/blob/8bcf9cf14cb7ba1417732637ee52c1f7d38d323a/Skills/General-skills.md)
