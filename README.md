@@ -33,7 +33,7 @@
 
 ### Product evolution
 
-The main idea of ​​the product did not suffer many changes between the first and second installment, however, it was necessary to better define and refine the important aspects of it. Among the most relevant changes for our product were:
+The main idea of the product did not suffer many changes between the first and second installment, however, it was necessary to better define and refine the important aspects of it. Among the most relevant changes for our product were:
 
 The data that will be saved for each service order was defined:
 
