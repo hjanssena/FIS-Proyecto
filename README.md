@@ -93,19 +93,32 @@ Regarding the use of the SCRUM Agile methodology, we did not utilize all its ele
 #### Learn more about the process
 - [Process description!](https://github.com/hjanssena/FIS-Proyecto/blob/8bcf9cf14cb7ba1417732637ee52c1f7d38d323a/Roles%20%26%20Organization/Process%20description.md)
   
-- [Process management!](https://github.com/hjanssena/FIS-Proyecto/blob/8bcf9cf14cb7ba1417732637ee52c1f7d38d323a/Roles%20%26%20Organization/Process%20Management.md)
+- [Process management!](https://github.com/hjanssena/FIS-Proyecto/blob/SegundaEntrega/Roles%20%26%20Organization/Process%20Management.md)
 
 ## Design (UI/UX)
 
 We created a user interface [prototype](https://www.figma.com/file/QQ6kXK1QVzeRAKcwilSRc7/Untitled?type=design&node-id=0%3A1&mode=design&t=ySZoxSK7i5XqvvHG-1), which was made using [Figma](https://www.figma.com/).
 
-![Prototype Desing in Figma](https://www.figma.com/file/QQ6kXK1QVzeRAKcwilSRc7/Untitled?type=design&node-id=0%3A1&mode=design&t=ySZoxSK7i5XqvvHG-1)
+- The first requirement states that the workshop administrator can log in/register with their email. According to our use case diagram, it specifies that login and registration can be done with email. Thus, we have enough information to propose a prototype interface allowing the user to register or log in, located in the section named "Sign In/Up."
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+- The second requirement indicates that the workshop administrator can grant access to the company's database to their employees. Our use case diagram specifies that it meets the requirement, so we can begin creating a prototype interface for the administrator to grant database access, located in the "Account and Configurations" section.
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+- The third requirement states that employees with database access should only have access to that and not to the administrator's configurations. This can be verified with the information in the use case diagram, allowing us to create an interface prototype for employees, where access to certain permissions is modified.
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+- The fourth requirement mentions that vehicles can be registered by providing specific data for the record, stored in the database. Our use case diagram and use case specification confirm this, allowing us to create a prototype interface in the "Menu" section under the name "New Order."
+
+- The fifth requirement specifies the need for a screen displaying upcoming service deliveries. Our use case diagram provides detailed instructions, allowing us to create the prototype, already completed and located in the "Menu" section as "Main Screen."
+
+- The next requirement discusses visualizing a history of repaired vehicles, including the data recorded during registration. This can be verified through the diagram and use case specification, detailing what the interface prototype should contain. The prototype is located in the "Menu" section under the name "Order History," and the data visualization is under "Order View."
+
+- The penultimate requirement mentions marking buttons to indicate progress in the vehicle repair. This can be verified in our use case diagram, and the use case specification document outlines the steps for creating the prototype. It is located in the "Menu."
+
+- The final functional requirement states that the workshop administrator can view performance graphs for their workshop. Our diagram and use case specification indicate that a prototype interface can be created, found in the "Menu" section with the name "Metrics."
+
+### Artifacts where the requirements were verified
+[Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/SegundaEntrega/Artifacts/UML-Use-Case-Diagram.pdf)
+[Use Case Specification](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EYczFlZ-P7hMvsU24l4KoicBFqIizoKz6LvKhqTFET9rjQ?e=gYGnAi)
+[Prototype Desing in Figma](https://www.figma.com/file/QQ6kXK1QVzeRAKcwilSRc7/Untitled?type=design&node-id=0%3A1&mode=design&t=ySZoxSK7i5XqvvHG-1)
 
 ---
 
