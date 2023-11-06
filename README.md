@@ -7,7 +7,7 @@
 ### Group A - FIS
 ### Edgar Cambranes Martínez
 =======
-### [Checklist]()
+### [Checklist](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EYbsj1CoJ1hMjnWeJm4kbVkBw5TlTkp1jWs3zSwRjrWbwA?e=cYIAH7)
 ---
 ## Video presentation - Second delivery
 - [HERE!](https://youtu.be/GJcCetrvJJE)
@@ -55,7 +55,6 @@ In addition, a complete review of the requirements was made, resulting in a more
 ### More information about the product
 
 - [HERE!](https://github.com/hjanssena/FIS-Proyecto/tree/8bcf9cf14cb7ba1417732637ee52c1f7d38d323a/Product)
-
 
 ## Requirements
 
