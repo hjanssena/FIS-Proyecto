@@ -2,7 +2,7 @@
 
 The activities performed and the percentage of participation of each team member are more detailed in the following Excel document. 
 
-[Activities & score]()
+[Activities & score](https://github.com/hjanssena/FIS-Proyecto/blob/07181c7bf96ca2d5821ce257e9dfe1e6983e6dbb/Activities%20score/Actividades%20FIS%20Second%20Delivery.xlsx)
 
 ## Summarized activity metrics
 
@@ -29,4 +29,5 @@ The activities performed and the percentage of participation of each team member
 | Review pull requests and resolve conflicts on GitHub   | Hugo    | N/A      |N/A| 1 |
 
 **Total Points: 56**
+
 **Total participation pointsn: 106**
