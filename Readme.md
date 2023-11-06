@@ -5,4 +5,7 @@ This repository is for the activities and the project we carry out in the Softwa
 
 ### [First project progress submission](https://github.com/hjanssena/FIS-Proyecto/tree/PrimeraEntrega)
 
+### [Second project progress submission](https://github.com/hjanssena/FIS-Proyecto/tree/SegundaEntrega)
+
 ### [Performance Activity 1](https://github.com/hjanssena/FIS-Proyecto/tree/PD-1)
+
