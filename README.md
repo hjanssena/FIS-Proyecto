@@ -7,7 +7,7 @@
 ### Group A - FIS
 ### Edgar Cambranes Martínez
 =======
-### [Checklist]()
+### [Checklist](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EYbsj1CoJ1hMjnWeJm4kbVkBw5TlTkp1jWs3zSwRjrWbwA?e=cYIAH7)
 ---
 ## Video presentation - Second delivery
 - [HERE!](https://youtu.be/GJcCetrvJJE)
@@ -24,6 +24,9 @@
  - Jose Pablo Martinez Martinez
  - Edwing Mauricio Molina Chim
  - Sofia Reyes Rodriguez 
+ - Hugo de Jesús Janssen Aguilar 
+
+ [About us](https://github.com/hjanssena/FIS-Proyecto/blob/d2fd9247f7674d00f5f3e6a4571037e2c3424940/About.md)
 
 ## About Our Product - PitSTOP
 
@@ -49,10 +52,9 @@ The client and vehicle data were also defined, which are: Name and surname, addr
 
 In addition, a complete review of the requirements was made, resulting in a more compact and defined list, which considers the most important functions expected from the system.
 
-### More information about
+### More information about the product
 
 - [HERE!](https://github.com/hjanssena/FIS-Proyecto/tree/8bcf9cf14cb7ba1417732637ee52c1f7d38d323a/Product)
-
 
 ## Requirements
 
@@ -64,9 +66,12 @@ During the course of this second delivery, we had to make numerous changes to bo
 
 We had to eliminate or modify many of the functional requirements, as we discovered that, when creating use cases, many of them were somewhat unnecessary. They didn't significantly contribute to the system's functionality, and we wouldn't be able to complete them by the final delivery deadline.Lastly, we narrowed down the non-functional requirements to those where compliance can be observed through the project's prototypes. 
 
-**Comparison between old and new requeriments**
+**Comparison between old and new requirements**
 
-- [HERE!]() **PENDIENTE**
+Apart from the fact that the new requirements are in English instead of Spanish, we can see that the number of requirements has been reduced for both functional and non-functional requirements. In the case of non-functional requirements, it's evident that almost all of them were eliminated, leaving only two, which are the most critical for the system to function as it should. Turning to functional requirements, there doesn't appear to be a significant reduction in their number. However, the main difference is that the new requirements are better described, with some of them being completely restructured and others being subdivided to provide a more detailed explanation compared to their old version. 
+
+- [New Requirements!](https://github.com/hjanssena/FIS-Proyecto/blob/d2fd9247f7674d00f5f3e6a4571037e2c3424940/Artifacts/Functional%20and%20Non-Functional%20Requirements.pdf) 
+- [Old Requirements!](https://github.com/hjanssena/FIS-Proyecto/blob/d2fd9247f7674d00f5f3e6a4571037e2c3424940/Artifacts/Functional%20and%20Non-functional%20Requirements%20-%20OLD.pdf)
 
 ### Artifacts evolution
 
@@ -74,7 +79,7 @@ A series of use case specifications were developed where each functional require
 
 - [Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/8bcf9cf14cb7ba1417732637ee52c1f7d38d323a/Artifacts/UML-Use-Case-Diagram.pdf)
 
-- [Use Case Specifications](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EYczFlZ-P7hMvsU24l4KoicBFqIizoKz6LvKhqTFET9rjQ?e=gYGnAi)
+- [Use Case Specifications](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EYczFlZ-P7hMvsU24l4KoicBFqIizoKz6LvKhqTFET9rjQ?e=gYGnAi) **CAMBIAR EL LINK CUANDO SE SUBA AL REPO**
 
 ## Our video [Second delivery]
 
@@ -91,15 +96,23 @@ For this second delivery, we have employed concepts from the incremental lifecyc
 Regarding the use of the SCRUM Agile methodology, we did not utilize all its elements for our project, but only the features we considered relevant for our team's effective organization. The project was carried out in a series of sprints, which will be detailed later, as increments. However, daily team meetings were not conducted due to time constraints; instead, we opted for weekly meetings. We employed SCRUM roles (Product Owner, Scrum Master, and Development Team) for team organization. 
 
 #### Learn more about the process
-- [Process description!](https://github.com/hjanssena/FIS-Proyecto/blob/8bcf9cf14cb7ba1417732637ee52c1f7d38d323a/Roles%20%26%20Organization/Process%20description.md)
+- [Process description!](https://github.com/hjanssena/FIS-Proyecto/blob/d2fd9247f7674d00f5f3e6a4571037e2c3424940/Roles%20%26%20Organization/Process%20description.md)
   
+<<<<<<< HEAD
 - [Process management!](https://github.com/hjanssena/FIS-Proyecto/blob/SegundaEntrega/Roles%20%26%20Organization/Process%20Management.md)
+=======
+- [Process management!](https://github.com/hjanssena/FIS-Proyecto/blob/d2fd9247f7674d00f5f3e6a4571037e2c3424940/Roles%20%26%20Organization/Process%20Management.md)
+>>>>>>> SegundaEntrega
 
 ## Design (UI/UX)
 
 We created a user interface [prototype](https://www.figma.com/file/QQ6kXK1QVzeRAKcwilSRc7/Untitled?type=design&node-id=0%3A1&mode=design&t=ySZoxSK7i5XqvvHG-1), which was made using [Figma](https://www.figma.com/).
 
+<<<<<<< HEAD
 - The first requirement states that the workshop administrator can log in/register with their email. According to our use case diagram, it specifies that login and registration can be done with email. Thus, we have enough information to propose a prototype interface allowing the user to register or log in, located in the section named "Sign In/Up."
+=======
+![Prototype Desing in Figma](https://github.com/hjanssena/FIS-Proyecto/blob/b873a4763e74532b2753ef036a7a9e3d2faa23b6/Artifacts/Figma%20prototype%20for%20PitSTOP.png)
+>>>>>>> SegundaEntrega
 
 - The second requirement indicates that the workshop administrator can grant access to the company's database to their employees. Our use case diagram specifies that it meets the requirement, so we can begin creating a prototype interface for the administrator to grant database access, located in the "Account and Configurations" section.
 
@@ -120,9 +133,13 @@ We created a user interface [prototype](https://www.figma.com/file/QQ6kXK1QVzeRA
 [Use Case Specification](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EYczFlZ-P7hMvsU24l4KoicBFqIizoKz6LvKhqTFET9rjQ?e=gYGnAi)
 [Prototype Desing in Figma](https://www.figma.com/file/QQ6kXK1QVzeRAKcwilSRc7/Untitled?type=design&node-id=0%3A1&mode=design&t=ySZoxSK7i5XqvvHG-1)
 
+### More information about the Design
+
+- [HERE!](https://github.com/hjanssena/FIS-Proyecto/blob/a67266a562ed61c898b735fb6d098107d0da409f/Design/README.md)
+
 ---
 
 ### SKILLS
 
-- [Specific skills!](https://github.com/hjanssena/FIS-Proyecto/blob/8bcf9cf14cb7ba1417732637ee52c1f7d38d323a/Skills/General-skills.md)
-- [Generic skills!](https://github.com/hjanssena/FIS-Proyecto/blob/8bcf9cf14cb7ba1417732637ee52c1f7d38d323a/Skills/General-skills.md)
+- [Specific skills!](https://github.com/hjanssena/FIS-Proyecto/blob/d2fd9247f7674d00f5f3e6a4571037e2c3424940/Skills/Specific-skills.md)
+- [General skills!](https://github.com/hjanssena/FIS-Proyecto/blob/d2fd9247f7674d00f5f3e6a4571037e2c3424940/Skills/General-skills.md)
