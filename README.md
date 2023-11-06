@@ -10,7 +10,7 @@
 ### [Checklist]()
 ---
 ## Video presentation - Second delivery
-- [HERE!]()
+- [HERE!](https://youtu.be/GJcCetrvJJE)
 
 ## TEAM
 
@@ -78,7 +78,7 @@ A series of use case specifications were developed where each functional require
 
 ## Our video [Second delivery]
 
-- [SECOND DELIVERY]() **PENDIENTE**
+- [SECOND DELIVERY](https://youtu.be/GJcCetrvJJE) 
 
 ---
 
