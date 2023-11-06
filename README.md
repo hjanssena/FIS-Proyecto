@@ -10,7 +10,7 @@
 ### [Checklist]()
 ---
 ## Video presentation - Second delivery
-- [HERE!]()
+- [HERE!](https://youtu.be/GJcCetrvJJE)
 
 ## TEAM
 
@@ -24,6 +24,9 @@
  - Jose Pablo Martinez Martinez
  - Edwing Mauricio Molina Chim
  - Sofia Reyes Rodriguez 
+ - Hugo de Jesús Janssen Aguilar 
+
+- [About us]()
 
 ## About Our Product - PitSTOP
 
@@ -66,7 +69,10 @@ We had to eliminate or modify many of the functional requirements, as we discove
 
 **Comparison between old and new requeriments**
 
-- [HERE!]() **PENDIENTE**
+Apart from the fact that the new requirements are in English instead of Spanish, we can see that the number of requirements has been reduced for both functional and non-functional requirements. In the case of non-functional requirements, it's evident that almost all of them were eliminated, leaving only two, which are the most critical for the system to function as it should. Turning to functional requirements, there doesn't appear to be a significant reduction in their number. However, the main difference is that the new requirements are better described, with some of them being completely restructured and others being subdivided to provide a more detailed explanation compared to their old version. 
+
+- [New Requeriments!]() 
+- [Old Requeriments!]()
 
 ### Artifacts evolution
 
@@ -78,7 +84,7 @@ A series of use case specifications were developed where each functional require
 
 ## Our video [Second delivery]
 
-- [SECOND DELIVERY]() **PENDIENTE**
+- [SECOND DELIVERY](https://youtu.be/GJcCetrvJJE) 
 
 ---
 
