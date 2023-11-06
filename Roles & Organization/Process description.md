@@ -2,6 +2,8 @@
 
 ## ORGANIZATION
 
+![Incremental Model](https://github.com/hjanssena/FIS-Proyecto/blob/d477df6f79f3043d7cbdc53d867a9d89e478cbe1/Assets/Incremental%20Model.jpg)
+
 In the previous delivery, we mentioned that we used elements of the Agile SCRUM methodology; however, for this second delivery, we did not follow the same process because it was not proving to be efficient, and we had more time to complete the delivery. 
 
 For this second delivery, we have employed concepts from the incremental lifecycle, implementing them in small sprints while incorporating some features of the Agile SCRUM methodology. We can observe the incremental lifecycle in our project. For example, to complete the review and validation of requirements, we had to deliver an initial version. After receiving group feedback and making necessary adjustments, we had to update the requirements and create new artifacts. 
@@ -12,7 +14,7 @@ Regarding the use of the SCRUM Agile methodology, we did not utilize all its ele
 
 ## SPRINTS
 
-![SCRUM Process]()
+![SCRUM Process](https://github.com/hjanssena/FIS-Proyecto/blob/b960e58c090ee9386f8f16977a65ff2d079bbebc/Assets/SCRUM%20Process.jpg)
 
 ### First Sprint
 Size: The sprint duration was 4 days.  
