@@ -79,7 +79,7 @@ A series of use case specifications were developed where each functional require
 
 - [Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/8bcf9cf14cb7ba1417732637ee52c1f7d38d323a/Artifacts/UML-Use-Case-Diagram.pdf)
 
-- [Use Case Specifications](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EYczFlZ-P7hMvsU24l4KoicBFqIizoKz6LvKhqTFET9rjQ?e=gYGnAi) **CAMBIAR EL LINK CUANDO SE SUBA AL REPO**
+- [Use Case Specifications]([https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EYczFlZ-P7hMvsU24l4KoicBFqIizoKz6LvKhqTFET9rjQ?e=gYGnAi](https://github.com/hjanssena/FIS-Proyecto/blob/480eee3b47a17d6de06b61b864435ab85d8d4fe0/Artifacts/Use%20case%20specifications.md)) 
 
 ## Our video [Second delivery]
 
