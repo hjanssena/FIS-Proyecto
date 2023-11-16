@@ -1,5 +1,5 @@
 
-![UADY Logo][https://atsuro0.s-ul.eu/ujDIZudB]
+![Logo UADY](https://atsuro0.s-ul.eu/ujDIZudB)
 
 ### Facultad de Matemáticas
 #### Prueba de desempeño: Fases de Desarrollo y Modelos de Ciclos de Vida
