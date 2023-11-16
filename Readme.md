@@ -61,8 +61,3 @@ Para fines de la comparativa elaboramos una presentación en donde ilustramos lo
 
 
 <kbd>[Enlace](http://www.twitch.tv)</kbd> #falta link
-
-
-## Referencias
-
-
