@@ -37,7 +37,7 @@ En un enfoque más específico, y de acuerdo con diversos documentos que describ
 
 Estas competencias forman las bases de las capacidades que define al ingeniero de **software**, dotándolo de las herramientas necesarias para enfrentar los desafíos de la industria.
 
-## Referencias
+## Links a documentacion
 
 - [Plan de estudios LIS](https://github.com/hjanssena/FIS-Proyecto/blob/PD-2-3/Documentaci%C3%B3n/LIS_Aprobado_12-ago-2016.pdf)
 - [Desarrollo de competencias](https://github.com/hjanssena/FIS-Proyecto/blob/PD-2-3/Documentaci%C3%B3n/Desarrollo%20de%20competencias.pdf)
