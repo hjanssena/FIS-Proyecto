@@ -37,8 +37,14 @@ En un enfoque más específico, y de acuerdo con diversos documentos que describ
 
 Estas competencias forman las bases de las capacidades que define al ingeniero de **software**, dotándolo de las herramientas necesarias para enfrentar los desafíos de la industria.
 
+## Links a documentacion
+
+- [Plan de estudios LIS](https://github.com/hjanssena/FIS-Proyecto/blob/PD-2-3/Documentaci%C3%B3n/LIS_Aprobado_12-ago-2016.pdf)
+- [Desarrollo de competencias](https://github.com/hjanssena/FIS-Proyecto/blob/PD-2-3/Documentaci%C3%B3n/Desarrollo%20de%20competencias.pdf)
+- [Ingenieria del software I](https://github.com/hjanssena/FIS-Proyecto/blob/PD-2-3/Documentaci%C3%B3n/Ingenieria%20del%20software%20I.pdf)
+
 ## Referencias
 
-- [Plan de estudios LIS](https://github.com/hjanssena/FIS-Proyecto/blob/7db74ce6cee7d7281d23143aa4a0e24009cffd78/Artefactos/LIS_Aprobado_12-ago-2016.pdf)
-- [Desarrollo de competencias](https://github.com/hjanssena/FIS-Proyecto/blob/36319da1600f2134393ac1678a1ed7d91d74adf8/Artefactos/Desarrollo%20de%20competencias.pdf)
-- [Ingenieria del software I](https://github.com/hjanssena/FIS-Proyecto/blob/7db74ce6cee7d7281d23143aa4a0e24009cffd78/Artefactos/Ingenieria%20del%20software%20I.pdf)
+- Piñeres, M. F. C., Miranda, R. E. T., Rozo, F. M. H., & Lobo, M. E. D. (2009). Diseño de software educativo basado en competencias. Ciencia e Ingeniería Neogranadina, 19(1), 71-98.
+- Sánchez, F., Sancho, M. R., Botella, P., García, J., Aluja, T., Navarro, J., & Balcazar, J. L. (2008). Competencias profesionales del grado en ingeniería informática. Actas de las XIV Jornadas de Enseñanza Universitaria de Informàtica, JENUI, 123-130.
+- España, J. A. A., González, E. R., Jáuregui, D. B. H., & Arias, J. A. S. (2018). Desarrollo de competencias en Ingeniería de Software: una experiencia académica en el ITC. Pistas Educativas, 33(102).
