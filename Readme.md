@@ -36,7 +36,7 @@ Igualmente, se produjo un video en donde se sintetizan las reflexiones y se comu
 3. **Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.**
 
 
-<kbd>[Enlace](https://github.com/hjanssena/FIS-Proyecto/blob/PD2-3/Reflexiones/Unidad2-3%20-%20Producto%20resultante%20de%20etapa%20de%20diseno.md)</kbd> #Faltan referencias
+<kbd>[Enlace](https://github.com/hjanssena/FIS-Proyecto/blob/PD2-3/Reflexiones/Unidad2-3%20-%20Producto%20resultante%20de%20etapa%20de%20diseno.md)</kbd>
 
 4. **Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.**
 
