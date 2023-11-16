@@ -39,9 +39,9 @@ Estas competencias forman las bases de las capacidades que define al ingeniero d
 
 ## Links a documentacion
 
-- [Plan de estudios LIS](https://github.com/hjanssena/FIS-Proyecto/blob/PD-2-3/Documentaci%C3%B3n/LIS_Aprobado_12-ago-2016.pdf)
-- [Desarrollo de competencias](https://github.com/hjanssena/FIS-Proyecto/blob/PD-2-3/Documentaci%C3%B3n/Desarrollo%20de%20competencias.pdf)
-- [Ingenieria del software I](https://github.com/hjanssena/FIS-Proyecto/blob/PD-2-3/Documentaci%C3%B3n/Ingenieria%20del%20software%20I.pdf)
+- [Plan de estudios LIS](https://github.com/hjanssena/FIS-Proyecto/blob/79086f908cb1d88358bc6b7b4b2921ee0fdd761f/Recursos/LIS_Aprobado_12-ago-2016.pdf)
+- [Desarrollo de competencias](https://github.com/hjanssena/FIS-Proyecto/blob/79086f908cb1d88358bc6b7b4b2921ee0fdd761f/Recursos/Desarrollo%20de%20competencias.pdf)
+- [Ingenieria del software I](https://github.com/hjanssena/FIS-Proyecto/blob/79086f908cb1d88358bc6b7b4b2921ee0fdd761f/Recursos/Ingenieria%20del%20software%20I.pdf)
 
 ## Referencias
 
