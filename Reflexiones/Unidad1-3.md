@@ -1,0 +1,13 @@
+**Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.**
+
+### Producto Resultante seleccionado:
+
+Interfaz de Usuario para un Sistema de Software de Gestión de un Taller Mecánico Automotriz.
+
+### Método Asociado:
+
+Prototipo de Baja Fidelidad con Wireframes en Figma.  Este método proporciona una representación estructurada y funcional de la interfaz de usuario, facilitando la iteración y validación temprana en el proceso de diseño del sistema de gestión del taller mecánico automotriz.  Figma permite una creación rápida de wireframes, una colaboración en tiempo real, permitiendo ajustes rápidos.  Los wireframes sirven como herramienta visual para alinear expectativas entre el equipo de desarrollo y los usuarios, asegurando una comprensión común del diseño propuesto.
+
+### Ejemplo basado en la experiencia del proyecto con un prototipo de Baja Fidelidad con Wireframes en Figma:
+
+Comenzamos identificando los requisitos específicos del sistema de gestión del taller, centrándonos en las necesidades del líder del taller y empleados  y personal administrativo. Definimos las funcionalidades clave, como programación de citas, historial de servicios y gestión de clientes.  Optamos por Figma como la herramienta principal para la creación de wireframes debido a su capacidad de colaboración en tiempo real y su facilidad de uso. Esto permitió que varios miembros del equipo contribuyeran y revisaran el prototipo simultáneamente. Utilizamos Figma para construir las estructuras básicas de las páginas de la interfaz. Nos centramos en representar la disposición de elementos como botones  y áreas de visualización de manera esquemática y funcional.  A través de Figma, establecimos enlaces interactivos entre los wireframes para simular la navegación entre diferentes secciones del sistema. Esto nos permitió definir y visualizar los flujos de usuario de manera clara.  Aunque se trataba de un prototipo de baja fidelidad, añadimos el detalle suficiente para representar la lógica de interacción y la disposición general de elementos clave, como formularios de citas y listas de servicios.  Basándonos en las retroalimentaciones recibidas, realizamos ajustes y mejoras en los wireframes en Figma. Ajustamos la disposición de elementos, la navegación y otros detalles según las sugerencias de los usuarios con experiencia para al final aseguramos que el diseño propuesto cumpliera con las expectativas y necesidades del usuario.
