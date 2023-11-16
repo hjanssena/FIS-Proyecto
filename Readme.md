@@ -18,8 +18,6 @@ Esta actividad consistió en realizar varias reflexiones relacionadas a la fase 
 
 Igualmente, se produjo un video en donde se sintetizan las reflexiones y se comunica de una manera entretenida:
 
-Para fines de la comparativa elaboramos una presentación en donde ilustramos los puntos más importantes que diferencian a estos dos planes: 
-
 - [Enlace al video](http://www.twitch.tv) #falta link
 - [Artefactos del video](http://www.twitch.tv) #falta link
 
