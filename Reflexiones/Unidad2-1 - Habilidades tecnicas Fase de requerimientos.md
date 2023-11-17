@@ -6,7 +6,7 @@ Permite conocer  el  alcance del proyecto y reconocer las funcionalidades clave 
 
 ### Diseño de protototipos de UI
 
-A través de la creación de prototipos  visuales de UI, se facilita la comunicación  efectiva entre el product owner y el  equipo de desarrollo, permitiendo la alineación de expectativas. Contribuye a la identificación y priorización de funciones clave del software, facilitando  ajustes  ágiles antes de inversiones de tiempo  significativas. Establecer  pautas de usabilidad  durante  este  proceso  garantiza  una  interfaz  intuitiva y fácil de usar, mientras que la colaboración  estrecha con desarrolladores  asegura la viabilidad  técnica de los  requisitos  definidos.
+A través de la creación de prototipos  visuales de UI, se facilita la comunicación  efectiva entre el product owner y el  equipo de desarrollo, permitiendo la alineación de expectativas. Contribuye a la identificación y priorización de funciones clave del software, facilitando  ajustes  ágiles antes de inversiones de tiempo  significativas. Establecer  pautas de usabilidad  durante  este  proceso  garantiza  una  interfaz  intuitiva y fácil de usar, mientras que la colaboración  estrecha con desarrolladores  asegura la viabilidad  técnica de los  requisitos  definidos. Esto es aplicado en el modelo de desarrollo por prototipos.
 
 ### Escritura  en  lenguaje natural
 
@@ -21,3 +21,7 @@ En nuestro  proyecto, el  uso del lenguaje natural fué  esencial para escribir 
 Luis Basto Díaz, Edgar Cambranes, José Luis López Martínez. (s/f). Requisitos de Software. https://alumnosuady.sharepoint.com/:p:/r/sites/FundamentosdeIngenieradeSoftware2023/Class%20Materials/Presentaciones%20FIS/Unidad%202/2.2%20Requisitos%20de%20Software.pptx?d=w59efa81e9a674c45a48de6acd840e019&csf=1&web=1&e=k2NODm
 
 Gillis, A. S., & Pratt, M. K. (2023, marzo 3). What are Hard  Skills? Definition and Examples. CIO; TechTarget. https://www.techtarget.com/searchcio/definition/hard-skills
+
+Guía para la redacción de casos de uso. (s/f). Juntadeandalucia.es. Recuperado el 17 de noviembre de 2023, de https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416
+
+Modelo de prototipos. (s/f). Ecured.cu. Recuperado el 17 de noviembre de 2023, de https://www.ecured.cu/Modelo_de_prototipos

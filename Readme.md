@@ -53,7 +53,7 @@ Igualmente, se produjo un video en donde se sintetizan las reflexiones y se comu
 1. **Asumiendo que los valores descritos en el acuerdo del "Manifiesto para el desarrollo ágil de software", causan conflicto en el proceso de desarrollo reflexione y describa de manera clara posibles soluciones utilizando como base el proyecto que están desarrollando en equipo.**
 
 
-<kbd>[Enlace](https://github.com/hjanssena/FIS-Proyecto/blob/PD2-3/Reflexiones/Unidad3-1%20-%20Manifiesto%20para%20el%20desarrollo%20agil%20de%20software.md)</kbd> #faltan referencias
+<kbd>[Enlace](https://github.com/hjanssena/FIS-Proyecto/blob/PD2-3/Reflexiones/Unidad3-1%20-%20Manifiesto%20para%20el%20desarrollo%20agil%20de%20software.md)</kbd>
 
 2. **De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil.**
 
