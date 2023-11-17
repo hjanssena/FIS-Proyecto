@@ -7,3 +7,9 @@ El **“Manifiesto para el desarrollo ágil de software”** es un documento que
 2. Otra problemática que podría ocurrir es que no exista una constante retroalimentación o cooperación con los posibles usuarios. Esto se puede evitar al mantener una comunicación constante con los posibles usuarios para que el proyecto se adapte a sus necesidades y hacer cambios en caso de que sea necesario.
 
 3. Por último, otro problema que puede surgir durante el desarrollo es que haya una resistencia a los cambios debido al uso de una planeación que no permita que haya flexibilidad. Esto puede prevenirse al adoptar métodos ágiles que permitan que haya ajustes frecuentes a la planeación.
+
+**Referencias:**
+
+“Manifiesto para el desarrollo ágil de software”. (s/f). Recuperado de: https://agilemanifesto.org/iso/es/manifesto.html 
+
+Sentrio. (2022). “Metodologías Agile: los 4 valores y 12 principios del ‘Manifiesto Ágil’”. Recuperado de: https://sentrio.io/blog/valores-principios-agile-manifiesto-agil/ 
