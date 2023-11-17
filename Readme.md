@@ -6,13 +6,15 @@
 #### Grupo A - Edgar Cambranes Martínez
 
 ## Integrantes del equipo
- - Hugo de Jesús Janssen Aguilar - *Participación 14%*
- - Emiliano Contreras Gamboa - *Participación 14%*
- - Alejandro Magdiel Duran Varela - *Participación 14%*
- - Capi Madera de Regil - *Participación 14%*
- - Jose Pablo Martinez Martinez - *Participación 14%*
- - Edwing Mauricio Molina Chim - *Participación 14%*
- - Sofia Reyes Rodriguez - *Participación 14%*
+ - Hugo de Jesús Janssen Aguilar
+ - Emiliano Contreras Gamboa
+ - Alejandro Magdiel Duran Varela
+ - Capi Madera de Regil
+ - Jose Pablo Martinez Martinez
+ - Edwing Mauricio Molina Chim
+ - Sofia Reyes Rodriguez
+
+[**Métricas de contribución**](https://github.com/hjanssena/FIS-Proyecto/blob/PD2-3/Metricas-de-contribucion.md)
  
 Esta actividad consistió en realizar varias reflexiones relacionadas a la fase de requerimientos de un software y a los modelos de ciclo de vida de estos.
 
