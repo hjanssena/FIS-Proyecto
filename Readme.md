@@ -16,11 +16,9 @@
  
 Esta actividad consistió en realizar varias reflexiones relacionadas a la fase de requerimientos de un software y a los modelos de ciclo de vida de estos.
 
-Igualmente, se produjo un video en donde se sintetizan las reflexiones y se comunica de una manera entretenida:
+Igualmente, se produjo un video en donde se resumen y presentan nuestras reflexiones:
 
-- [Enlace al video](http://www.twitch.tv) #falta link
-- [Artefactos del video](http://www.twitch.tv) #falta link
-
+- [Enlace al video](https://www.youtube.com/watch?v=3D8kmRoPizw) #falta link
 
 ## Reflexiones
 
