@@ -20,7 +20,7 @@ Esta actividad consistió en realizar varias reflexiones relacionadas a la fase 
 
 Igualmente, se produjo un video en donde se resumen y presentan nuestras reflexiones:
 
-- [Enlace al video](https://www.youtube.com/watch?v=3D8kmRoPizw) #falta link
+- [Enlace al video](https://www.youtube.com/watch?v=3D8kmRoPizw)
 
 ## Reflexiones
 
