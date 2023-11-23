@@ -79,11 +79,7 @@ A series of use case specifications were developed where each functional require
 
 - [Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/8bcf9cf14cb7ba1417732637ee52c1f7d38d323a/Artifacts/UML-Use-Case-Diagram.pdf)
 
-<<<<<<< HEAD
-- [Use Case Specifications](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EYczFlZ-P7hMvsU24l4KoicBFqIizoKz6LvKhqTFET9rjQ?e=gYGnAi) **CAMBIAR EL LINK CUANDO SE SUBA AL REPO**
-=======
 - [Use Case Specifications](https://github.com/hjanssena/FIS-Proyecto/blob/480eee3b47a17d6de06b61b864435ab85d8d4fe0/Artifacts/Use%20case%20specifications.md)
->>>>>>> SegundaEntrega
 
 ## Our video [Second delivery]
 
@@ -102,11 +98,7 @@ Regarding the use of the SCRUM Agile methodology, we did not utilize all its ele
 #### Learn more about the process
 - [Process description!](https://github.com/hjanssena/FIS-Proyecto/blob/d2fd9247f7674d00f5f3e6a4571037e2c3424940/Roles%20%26%20Organization/Process%20description.md)
   
-<<<<<<< HEAD
-- [Process management!](https://github.com/hjanssena/FIS-Proyecto/blob/d2fd9247f7674d00f5f3e6a4571037e2c3424940/Roles%20%26%20Organization/Process%20Management.md)
-=======
 - [Process management!](https://github.com/hjanssena/FIS-Proyecto/blob/SegundaEntrega/Roles%20%26%20Organization/Process%20Management.md)
->>>>>>> SegundaEntrega
 
 ## Design (UI/UX)
 
