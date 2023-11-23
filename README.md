@@ -7,7 +7,7 @@
 ### Group A - FIS
 ### Edgar Cambranes Martínez
 =======
-### [Checklist]()
+### [Checklist](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Activities%20score/LIS%20FIS%202023-ChecklList.xlsx)
 ---
 ## Video presentation - Third delivery
 - [HERE!]()
@@ -21,10 +21,9 @@
  - [Emiliano Contreras Gamboa]() 
  - [Alejandro Magdiel Duran Varela]() 
  - [Capi Madera de Regil]() 
- - [Jose Pablo Martinez Martinez]() 
+ - [Jose Pablo Martinez Martinez](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Skills/Individual%20Construtive%20Criticism/JPabloMartinezMartinez.md) 
  - [Edwing Mauricio Molina Chim]() 
  - [Sofia Reyes Rodriguez]() 
- - [Hugo de Jesús Janssen Aguilar]()  
 
  [About us](https://github.com/hjanssena/FIS-Proyecto/blob/d2fd9247f7674d00f5f3e6a4571037e2c3424940/About.md)
 
@@ -64,8 +63,8 @@ On the other hand, there were no changes in the non-functional requirements, as 
 
 **Comparison between old and new requirements**
 
-- [New Requirements!]() 
-- [Old Requirements!]()
+- [New Requirements!](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/Functional%20and%20Non-Functional%20Requirements.pdf) 
+- [Old Requirements!](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/OLD%20Functional%20and%20Non-Functional%20Requirements.pdf)
   
 ### Artifact Refinement
 
@@ -73,10 +72,10 @@ The use case diagram created in the second delivery was unnecessarily complicate
 
 In comparison with the second delivery, we now have the use case specifications for all functional requirements. We will use these to create functional prototypes and validate them with end-users, that is, the clients."
 
-- [NEW Use Case Diagram]()
-- [OLD Use Case Diagram]()
+- [NEW Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/UML%20Use%20Case%20Diagram%20for%20PitSTOP.pdf)
+- [OLD Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/OLD%20UML%20Use%20Case%20Diagram.pdf)
 
-- [Use Case Specifications]()
+- [Use Case Specifications](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/Use%20case%20specifications.md)
 
 ### _Final requirements_
 
@@ -101,9 +100,9 @@ In comparison with the second delivery, we now have the use case specifications 
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 #### Learn more about the process
-- [Process description!]()
+- [Process description!](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Roles%20%26%20Organization/Process%20description.md)
   
-- [Process management!]()
+- [Process management!](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Roles%20%26%20Organization/Process%20Management.md)
 
 ## Design (UI/UX)
 
@@ -111,13 +110,13 @@ We created a user interface [prototype](https://www.figma.com/file/QQ6kXK1QVzeRA
 
 ![Prototype Desing in Figma](https://github.com/hjanssena/FIS-Proyecto/blob/b873a4763e74532b2753ef036a7a9e3d2faa23b6/Artifacts/Figma%20prototype%20for%20PitSTOP.png)
 
--"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ## Requirements mapping
--"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ### Artifacts where the requirements were verified
-[Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/SegundaEntrega/Artifacts/UML-Use-Case-Diagram.pdf)
+[Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/UML%20Use%20Case%20Diagram%20for%20PitSTOP.pdf)
 [Use Case Specification](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EYczFlZ-P7hMvsU24l4KoicBFqIizoKz6LvKhqTFET9rjQ?e=gYGnAi)
 [Prototype Desing in Figma](https://www.figma.com/file/QQ6kXK1QVzeRAKcwilSRc7/Untitled?type=design&node-id=0%3A1&mode=design&t=ySZoxSK7i5XqvvHG-1)
 
@@ -128,7 +127,7 @@ We created a user interface [prototype](https://www.figma.com/file/QQ6kXK1QVzeRA
 
 ## SKILLS
 
-- [Specific skills!]()
-- [General skills!]()
+- [Specific skills!](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Skills/Specific-skills.md)
+- [General skills!](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Skills/General-skills.md)
 
-- [Constructive Criticism!]()
+- [**Constructive Criticism!**](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Skills/Constructive%20Criticism.md)
