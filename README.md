@@ -7,7 +7,7 @@
 ### Group A - FIS
 ### Edgar Cambranes Martínez
 =======
-### [Checklist]()
+### [Checklist](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EYbsj1CoJ1hMjnWeJm4kbVkBw5TlTkp1jWs3zSwRjrWbwA?e=cYIAH7)
 ---
 ## Video presentation - Second delivery
 - [HERE!](https://youtu.be/GJcCetrvJJE)
@@ -56,7 +56,6 @@ In addition, a complete review of the requirements was made, resulting in a more
 
 - [HERE!](https://github.com/hjanssena/FIS-Proyecto/tree/8bcf9cf14cb7ba1417732637ee52c1f7d38d323a/Product)
 
-
 ## Requirements
 
 ---
@@ -80,7 +79,11 @@ A series of use case specifications were developed where each functional require
 
 - [Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/8bcf9cf14cb7ba1417732637ee52c1f7d38d323a/Artifacts/UML-Use-Case-Diagram.pdf)
 
+<<<<<<< HEAD
 - [Use Case Specifications](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EYczFlZ-P7hMvsU24l4KoicBFqIizoKz6LvKhqTFET9rjQ?e=gYGnAi) **CAMBIAR EL LINK CUANDO SE SUBA AL REPO**
+=======
+- [Use Case Specifications](https://github.com/hjanssena/FIS-Proyecto/blob/480eee3b47a17d6de06b61b864435ab85d8d4fe0/Artifacts/Use%20case%20specifications.md)
+>>>>>>> SegundaEntrega
 
 ## Our video [Second delivery]
 
@@ -99,7 +102,11 @@ Regarding the use of the SCRUM Agile methodology, we did not utilize all its ele
 #### Learn more about the process
 - [Process description!](https://github.com/hjanssena/FIS-Proyecto/blob/d2fd9247f7674d00f5f3e6a4571037e2c3424940/Roles%20%26%20Organization/Process%20description.md)
   
+<<<<<<< HEAD
 - [Process management!](https://github.com/hjanssena/FIS-Proyecto/blob/d2fd9247f7674d00f5f3e6a4571037e2c3424940/Roles%20%26%20Organization/Process%20Management.md)
+=======
+- [Process management!](https://github.com/hjanssena/FIS-Proyecto/blob/SegundaEntrega/Roles%20%26%20Organization/Process%20Management.md)
+>>>>>>> SegundaEntrega
 
 ## Design (UI/UX)
 
@@ -107,11 +114,30 @@ We created a user interface [prototype](https://www.figma.com/file/QQ6kXK1QVzeRA
 
 ![Prototype Desing in Figma](https://github.com/hjanssena/FIS-Proyecto/blob/b873a4763e74532b2753ef036a7a9e3d2faa23b6/Artifacts/Figma%20prototype%20for%20PitSTOP.png)
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+- The first requirement states that the workshop administrator can log in/register with their email. According to our use case diagram, it specifies that login and registration can be done with email. Thus, we have enough information to propose a prototype interface allowing the user to register or log in, located in the section named "Sign In/Up."
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+- The second requirement indicates that the workshop administrator can grant access to the company's database to their employees. Our use case diagram specifies that it meets the requirement, so we can begin creating a prototype interface for the administrator to grant database access, located in the "Account and Configurations" section.
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+- The third requirement states that employees with database access should only have access to that and not to the administrator's configurations. This can be verified with the information in the use case diagram, allowing us to create an interface prototype for employees, where access to certain permissions is modified.
+
+- The fourth requirement mentions that vehicles can be registered by providing specific data for the record, stored in the database. Our use case diagram and use case specification confirm this, allowing us to create a prototype interface in the "Menu" section under the name "New Order."
+
+- The fifth requirement specifies the need for a screen displaying upcoming service deliveries. Our use case diagram provides detailed instructions, allowing us to create the prototype, already completed and located in the "Menu" section as "Main Screen."
+
+- The next requirement discusses visualizing a history of repaired vehicles, including the data recorded during registration. This can be verified through the diagram and use case specification, detailing what the interface prototype should contain. The prototype is located in the "Menu" section under the name "Order History," and the data visualization is under "Order View."
+
+- The penultimate requirement mentions marking buttons to indicate progress in the vehicle repair. This can be verified in our use case diagram, and the use case specification document outlines the steps for creating the prototype. It is located in the "Menu."
+
+- The final functional requirement states that the workshop administrator can view performance graphs for their workshop. Our diagram and use case specification indicate that a prototype interface can be created, found in the "Menu" section with the name "Metrics."
+
+### Artifacts where the requirements were verified
+[Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/SegundaEntrega/Artifacts/UML-Use-Case-Diagram.pdf)
+[Use Case Specification](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EYczFlZ-P7hMvsU24l4KoicBFqIizoKz6LvKhqTFET9rjQ?e=gYGnAi)
+[Prototype Desing in Figma](https://www.figma.com/file/QQ6kXK1QVzeRAKcwilSRc7/Untitled?type=design&node-id=0%3A1&mode=design&t=ySZoxSK7i5XqvvHG-1)
+
+### More information about the Design
+
+- [HERE!](https://github.com/hjanssena/FIS-Proyecto/blob/a67266a562ed61c898b735fb6d098107d0da409f/Design/README.md)
 
 ### More information about the Design
 
