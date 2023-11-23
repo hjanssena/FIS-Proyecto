@@ -1,4 +1,4 @@
-## Activities
+## Activities [FALTA MODIFICARLO]
 
 The activities performed and the percentage of participation of each team member are more detailed in the following Excel document. 
 

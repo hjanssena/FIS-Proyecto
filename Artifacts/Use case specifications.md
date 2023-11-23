@@ -1,4 +1,5 @@
-## Use case specifications
+# Use case specifications
+
 ### User account registration
 ![User account registration](https://atsuro0.s-ul.eu/4CHXdM7s)
 ### New customer vehicle reception

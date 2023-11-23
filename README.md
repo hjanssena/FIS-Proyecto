@@ -7,24 +7,23 @@
 ### Group A - FIS
 ### Edgar Cambranes Martínez
 =======
-### [Checklist](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EYbsj1CoJ1hMjnWeJm4kbVkBw5TlTkp1jWs3zSwRjrWbwA?e=cYIAH7)
+### [Checklist](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Activities%20score/LIS%20FIS%202023-ChecklList.xlsx)
 ---
-## Video presentation - Second delivery
-- [HERE!](https://youtu.be/GJcCetrvJJE)
+## Video presentation - Third delivery
+- [HERE!]()
 
 ## TEAM
 
 ### SCRUM master
- - Hugo de Jesús Janssen Aguilar 
+ - [Hugo de Jesús Janssen Aguilar]() 
  
 ### Development team
- - Emiliano Contreras Gamboa 
- - Alejandro Magdiel Duran Varela
- - Capi Madera de Regil
- - Jose Pablo Martinez Martinez
- - Edwing Mauricio Molina Chim
- - Sofia Reyes Rodriguez 
- - Hugo de Jesús Janssen Aguilar 
+ - [Emiliano Contreras Gamboa]() 
+ - [Alejandro Magdiel Duran Varela]() 
+ - [Capi Madera de Regil]() 
+ - [Jose Pablo Martinez Martinez](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Skills/Individual%20Construtive%20Criticism/JPabloMartinezMartinez.md) 
+ - [Edwing Mauricio Molina Chim]() 
+ - [Sofia Reyes Rodriguez]() 
 
  [About us](https://github.com/hjanssena/FIS-Proyecto/blob/d2fd9247f7674d00f5f3e6a4571037e2c3424940/About.md)
 
@@ -36,21 +35,15 @@
 
 ### Product evolution
 
-The main idea of the product did not suffer many changes between the first and second installment, however, it was necessary to better define and refine the important aspects of it. Among the most relevant changes for our product were:
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
-The data that will be saved for each service order was defined:
+### Users
 
-   - Service to be performed: Brief description of what the client requests, whether a diagnosis or a preventive service. It is an open field for the failure or service requested to be described in an understandable manner.
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
-   - Type of service: It can be preventive or corrective, it will serve as a metric for the workshop to know what type of work it attends.
+### Innovation
 
-   - Reception date
-
-   - Promised date and time: It is the time agreed with the client for the delivery of their vehicle.
-
-The client and vehicle data were also defined, which are: Name and surname, address, telephone number, email, model and make of the vehicle, VIN and license plates.
-
-In addition, a complete review of the requirements was made, resulting in a more compact and defined list, which considers the most important functions expected from the system.
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ### More information about the product
 
@@ -62,28 +55,41 @@ In addition, a complete review of the requirements was made, resulting in a more
 
 ### Requirements evolution
 
-During the course of this second delivery, we had to make numerous changes to both the functional and non-functional requirements. This was because we realized that the requirements we had defined in the first delivery were not well-defined. Moreover, many of them involved unnecessary implementations given the time constraints for this delivery. Consequently, we had to reevaluate the functional and non-functional requirements. 
+During the course of this third delivery, the creation of mid-fidelity prototypes and the validation of use cases through potential clients made us realize that, according to the users' needs, we would have to add functional requirements that were not previously considered in the previous deliveries.
 
-We had to eliminate or modify many of the functional requirements, as we discovered that, when creating use cases, many of them were somewhat unnecessary. They didn't significantly contribute to the system's functionality, and we wouldn't be able to complete them by the final delivery deadline.Lastly, we narrowed down the non-functional requirements to those where compliance can be observed through the project's prototypes. 
+In comparison with the second delivery, the definition of our previous functional requirements did not undergo significant changes, as they were well-defined. Instead, we focused on properly defining the new functional requirements.
+
+On the other hand, there were no changes in the non-functional requirements, as it was not necessary and would only increase the workload, slowing down the project development.
 
 **Comparison between old and new requirements**
 
-Apart from the fact that the new requirements are in English instead of Spanish, we can see that the number of requirements has been reduced for both functional and non-functional requirements. In the case of non-functional requirements, it's evident that almost all of them were eliminated, leaving only two, which are the most critical for the system to function as it should. Turning to functional requirements, there doesn't appear to be a significant reduction in their number. However, the main difference is that the new requirements are better described, with some of them being completely restructured and others being subdivided to provide a more detailed explanation compared to their old version. 
+- [New Requirements!](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/Functional%20and%20Non-Functional%20Requirements.pdf) 
+- [Old Requirements!](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/OLD%20Functional%20and%20Non-Functional%20Requirements.pdf)
+  
+### Artifact Refinement
 
-- [New Requirements!](https://github.com/hjanssena/FIS-Proyecto/blob/d2fd9247f7674d00f5f3e6a4571037e2c3424940/Artifacts/Functional%20and%20Non-Functional%20Requirements.pdf) 
-- [Old Requirements!](https://github.com/hjanssena/FIS-Proyecto/blob/d2fd9247f7674d00f5f3e6a4571037e2c3424940/Artifacts/Functional%20and%20Non-functional%20Requirements%20-%20OLD.pdf)
+The use case diagram created in the second delivery was unnecessarily complicated. Additionally, with the addition of new requirements, it was necessary to modify said use case diagram. The new use case diagram is simpler, aiming to highlight only the flow of functionalities accessible to different users in the PitSTOP system.
 
-### Artifacts evolution
+In comparison with the second delivery, we now have the use case specifications for all functional requirements. We will use these to create functional prototypes and validate them with end-users, that is, the clients."
 
-A series of use case specifications were developed where each functional requirement was described in terms of how a user would use it. Likewise, the use case diagram was improved from the one in the first delivery.
+- [NEW Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/UML%20Use%20Case%20Diagram%20for%20PitSTOP.pdf)
+- [OLD Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/OLD%20UML%20Use%20Case%20Diagram.pdf)
 
-- [Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/8bcf9cf14cb7ba1417732637ee52c1f7d38d323a/Artifacts/UML-Use-Case-Diagram.pdf)
+- [Use Case Specifications](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/Use%20case%20specifications.md)
 
-- [Use Case Specifications](https://github.com/hjanssena/FIS-Proyecto/blob/480eee3b47a17d6de06b61b864435ab85d8d4fe0/Artifacts/Use%20case%20specifications.md)
+### _Final requirements_
 
-## Our video [Second delivery]
+- [Final requirements]()
 
-- [SECOND DELIVERY](https://youtu.be/GJcCetrvJJE) 
+## TESTS
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+- [Informal tests]()
+- [RESULTS]()
+
+## Our video [Third delivery]
+
+- [THIRD DELIVERY]() 
 
 ---
 
@@ -91,14 +97,12 @@ A series of use case specifications were developed where each functional require
 
 ### About the process
 
-For this second delivery, we have employed concepts from the incremental lifecycle, implementing them in small sprints while incorporating some features of the Agile SCRUM methodology. We can observe the incremental lifecycle in our project. For example, to complete the review and validation of requirements, we had to deliver an initial version. After receiving group feedback and making necessary adjustments, we had to update the requirements and create new artifacts. 
-
-Regarding the use of the SCRUM Agile methodology, we did not utilize all its elements for our project, but only the features we considered relevant for our team's effective organization. The project was carried out in a series of sprints, which will be detailed later, as increments. However, daily team meetings were not conducted due to time constraints; instead, we opted for weekly meetings. We employed SCRUM roles (Product Owner, Scrum Master, and Development Team) for team organization. 
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 #### Learn more about the process
-- [Process description!](https://github.com/hjanssena/FIS-Proyecto/blob/d2fd9247f7674d00f5f3e6a4571037e2c3424940/Roles%20%26%20Organization/Process%20description.md)
+- [Process description!](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Roles%20%26%20Organization/Process%20description.md)
   
-- [Process management!](https://github.com/hjanssena/FIS-Proyecto/blob/SegundaEntrega/Roles%20%26%20Organization/Process%20Management.md)
+- [Process management!](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Roles%20%26%20Organization/Process%20Management.md)
 
 ## Design (UI/UX)
 
@@ -106,34 +110,26 @@ We created a user interface [prototype](https://www.figma.com/file/QQ6kXK1QVzeRA
 
 ![Prototype Desing in Figma](https://github.com/hjanssena/FIS-Proyecto/blob/b873a4763e74532b2753ef036a7a9e3d2faa23b6/Artifacts/Figma%20prototype%20for%20PitSTOP.png)
 
-- The first requirement states that the workshop administrator can log in/register with their email. According to our use case diagram, it specifies that login and registration can be done with email. Thus, we have enough information to propose a prototype interface allowing the user to register or log in, located in the section named "Sign In/Up."
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
-- The second requirement indicates that the workshop administrator can grant access to the company's database to their employees. Our use case diagram specifies that it meets the requirement, so we can begin creating a prototype interface for the administrator to grant database access, located in the "Account and Configurations" section.
-
-- The third requirement states that employees with database access should only have access to that and not to the administrator's configurations. This can be verified with the information in the use case diagram, allowing us to create an interface prototype for employees, where access to certain permissions is modified.
-
-- The fourth requirement mentions that vehicles can be registered by providing specific data for the record, stored in the database. Our use case diagram and use case specification confirm this, allowing us to create a prototype interface in the "Menu" section under the name "New Order."
-
-- The fifth requirement specifies the need for a screen displaying upcoming service deliveries. Our use case diagram provides detailed instructions, allowing us to create the prototype, already completed and located in the "Menu" section as "Main Screen."
-
-- The next requirement discusses visualizing a history of repaired vehicles, including the data recorded during registration. This can be verified through the diagram and use case specification, detailing what the interface prototype should contain. The prototype is located in the "Menu" section under the name "Order History," and the data visualization is under "Order View."
-
-- The penultimate requirement mentions marking buttons to indicate progress in the vehicle repair. This can be verified in our use case diagram, and the use case specification document outlines the steps for creating the prototype. It is located in the "Menu."
-
-- The final functional requirement states that the workshop administrator can view performance graphs for their workshop. Our diagram and use case specification indicate that a prototype interface can be created, found in the "Menu" section with the name "Metrics."
+## Requirements mapping
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ### Artifacts where the requirements were verified
-[Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/SegundaEntrega/Artifacts/UML-Use-Case-Diagram.pdf)
-[Use Case Specification](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EYczFlZ-P7hMvsU24l4KoicBFqIizoKz6LvKhqTFET9rjQ?e=gYGnAi)
-[Prototype Desing in Figma](https://www.figma.com/file/QQ6kXK1QVzeRAKcwilSRc7/Untitled?type=design&node-id=0%3A1&mode=design&t=ySZoxSK7i5XqvvHG-1)
+<kbd>[Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/UML%20Use%20Case%20Diagram%20for%20PitSTOP.pdf)</kbd>
+
+<kbd>[Use Case Specification](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EYczFlZ-P7hMvsU24l4KoicBFqIizoKz6LvKhqTFET9rjQ?e=gYGnAi)</kbd>
+
+<kbd>[Prototype Desing in Figma](https://www.figma.com/file/QQ6kXK1QVzeRAKcwilSRc7/Untitled?type=design&node-id=0%3A1&mode=design&t=ySZoxSK7i5XqvvHG-1)</kbd>
 
 ### More information about the Design
 
 - [HERE!](https://github.com/hjanssena/FIS-Proyecto/blob/a67266a562ed61c898b735fb6d098107d0da409f/Design/README.md)
-
 ---
 
-### SKILLS
+## SKILLS
 
-- [Specific skills!](https://github.com/hjanssena/FIS-Proyecto/blob/d2fd9247f7674d00f5f3e6a4571037e2c3424940/Skills/Specific-skills.md)
-- [General skills!](https://github.com/hjanssena/FIS-Proyecto/blob/d2fd9247f7674d00f5f3e6a4571037e2c3424940/Skills/General-skills.md)
+- [Specific skills!](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Skills/Specific-skills.md)
+- [General skills!](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Skills/General-skills.md)
+
+- [**Constructive Criticism!**](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Skills/Constructive%20Criticism.md)
