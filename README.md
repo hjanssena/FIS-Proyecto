@@ -116,9 +116,11 @@ We created a user interface [prototype](https://www.figma.com/file/QQ6kXK1QVzeRA
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ### Artifacts where the requirements were verified
-[Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/UML%20Use%20Case%20Diagram%20for%20PitSTOP.pdf)
-[Use Case Specification](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EYczFlZ-P7hMvsU24l4KoicBFqIizoKz6LvKhqTFET9rjQ?e=gYGnAi)
-[Prototype Desing in Figma](https://www.figma.com/file/QQ6kXK1QVzeRAKcwilSRc7/Untitled?type=design&node-id=0%3A1&mode=design&t=ySZoxSK7i5XqvvHG-1)
+<kbd>[Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/UML%20Use%20Case%20Diagram%20for%20PitSTOP.pdf)</kbd>
+
+<kbd>[Use Case Specification](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EYczFlZ-P7hMvsU24l4KoicBFqIizoKz6LvKhqTFET9rjQ?e=gYGnAi)</kbd>
+
+<kbd>[Prototype Desing in Figma](https://www.figma.com/file/QQ6kXK1QVzeRAKcwilSRc7/Untitled?type=design&node-id=0%3A1&mode=design&t=ySZoxSK7i5XqvvHG-1)</kbd>
 
 ### More information about the Design
 
