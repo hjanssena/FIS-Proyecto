@@ -23,7 +23,7 @@ The area covered in the workshop's process will be the part surrounding vehicle 
 ---
 ### Users
 
-The primary user will be any automotive vehicle repair shop that receives no more than approximately 15 vehicles per day. The system functions will be designed for the operation of this type of business and the common structure of their teams.
+The primary user will be any automotive vehicle repair shop that receives no more than approximately 10 vehicles per day. The system functions will be designed for the operation of this type of business and the common structure of their teams.
 
 ![](https://lh3.googleusercontent.com/bmTcj2dmu-coxFlNPeoIcJQurrak3fmlSg1S8s2GD_SVwUfO82Zf5jE9eGNDHSBfmePdPN7IhVjDBncElJP6ypqjY8TEXvsm4l0Y8OmG7E8jtXKqOpZ0o0wy_4sZPzlRzkuQ7nclHSgBWK4YjoJYOQ)
 
@@ -50,3 +50,10 @@ The data that will be saved for each service order was defined:
 The client and vehicle data were also defined, which are: Name and surname, address, telephone number, email, model and make of the vehicle, VIN and license plates.
 
 In addition, a complete review of the requirements was made, resulting in a more compact and defined list, which considers the most important functions expected from the system.
+
+### Product evolution Third Delivery
+
+For the third installment, it was decided that the appointment function is not essential for a small workshop, since the daily vehicle flow they have is small (10 or less) and it will be an additional input function that will only increase the complexity of the system.  
+  
+Additionally, a requirement was specified to control the notifications that the application sends regarding status updates to the current open orders.
+
