@@ -1,10 +1,10 @@
 ![Logo UADY](https://atsuro0.s-ul.eu/ujDIZudB)
 
-### Facultad de Matemáticas
-#### Prueba de desempeño: Gestión del software
-#### Grupo A - Edgar Cambranes Martínez
+### "Facultad de Matemáticas"
+#### Performance Activity: Software management
+#### Group A - Edgar Cambranes Martínez
 
-## Integrantes del equipo
+## Team members
  - Hugo de Jesús Janssen Aguilar
  - Emiliano Contreras Gamboa
  - Alejandro Magdiel Duran Varela
@@ -13,40 +13,40 @@
  - Edwing Mauricio Molina Chim
  - Sofia Reyes Rodriguez
 
-[**Métricas de contribución**]()
+[**Contribution metrics**]()
  
-Esta  prueba de desempeño consistió en realizar varias consistó en aplicar gestión con métodos de estimación, calidad y gestión basandonos en el proyecto de software que se ha estado trabajando a lo largo de todo el semestre.
+This performance test consisted of applying management with estimation, quality, and management methods based on the software project that has been worked on throughout the semester.
 
-Igualmente, se produjeron dos infografías donde se resume lo realizado en esta actividad:
+Additionally, two infographics were produced summarizing what was done in this activity:
 
-- [Enlace a la primera infografía]()
-- [Enlace a la segunda infografía]()
+- [Link to the first infographic]()
+- [Link to the second infographic]()
 
-## Gestión del software for PitSTOP
+## Link to the first infographic
 
-### Métodos de estimación: 
-1. **Con respecto al proyecto que estás llevando a cabo, realiza una estimación que abarque el esfuerzo requerido, los costes asociados (incluyendo la asignación de salarios acorde a las funciones y experiencia de cada miembro del equipo, indique la referencia utilizada para el cálculo de los salarios) y el tiempo necesario. Para ello, emplea la técnica de puntos de función basada en el método COSMIC y aplícala a un sprint de tu elección.**
+### Estimation Methods: 
+1. **Regarding the project you are carrying out, make an estimate covering the required effort, associated costs (including salary allocation according to the functions and experience of each team member, indicate the reference used for salary calculation), and the necessary time. For this, use the function point technique based on the COSMIC method and apply it to a sprint of your choice.**
 
-<kbd>[Enlace]()</kbd>
+<kbd>[Link]()</kbd>
 
-1. **Aplica el WBS para las historias de usuario o casos de uso en un sprint de tu elección y contempla que los paquetes de trabajo contengan: idWBS, nombre, duración, costo estimado.**
+1. **Apply the WBS for user stories or use cases in a sprint of your choice and consider that work packages contain: idWBS, name, duration, estimated cost.**
 
-<kbd>[Enlace]()</kbd>
+<kbd>[Link]()</kbd>
 
-1. **Presenta un diagrama de Gantt de la planeación y calendarización de las actividades llevadas a cabo en un sprint de tu elección (considera hitos, fecha iniciales y finales para las actividades, así como los responsables de cada actividad)**
-
-
-<kbd>[Enlace]()</kbd>
-
-### Gestión de la calidad del software:
-1. **Compara los modelos de calidad propuestos por McCall y Boehm, identifica y lista sus características esenciales y reflexiona sobre e cuál de estos dos modelos sería más adecuado para aplicar en tu proyecto de desarrollo de software. Justifica tu elección.**
+3. **Present a Gantt chart of the planning and scheduling of activities carried out in a sprint of your choice (consider milestones, start and end dates for activities, as well as those responsible for each activity).**
 
 
-<kbd>[Enlace]()</kbd>
+<kbd>[Link]()</kbd>
 
-### Gestión de configuración:
+### Software Quality Management:
+1. **Compare the quality models proposed by McCall and Boehm, identify and list their essential characteristics, and reflect on which of these two models would be more suitable to apply in your software development project. Justify your choice.**
 
-1. **Elige dos artefactos que se generaron como parte del proceso de tu proyecto y realiza una audit oría de la gestión de la configuración del software, indicando si se llevó a cabo su configuración y versionamiento. A continuación, presenta un informe detallado al respecto.**
+
+<kbd>[Link]()</kbd>
+
+### Configuration Management:
+
+2. **Choose two artifacts generated as part of your project's process and conduct an audit of software configuration management, indicating whether configuration and versioning were carried out. Then, present a detailed report on this.**
 
 
-<kbd>[Enlace]()</kbd>
+<kbd>[Link]()</kbd>
