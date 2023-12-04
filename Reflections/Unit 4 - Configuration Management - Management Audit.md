@@ -4,6 +4,7 @@ During the progress of the project, the development team generated artifacts and
 
 ### Artifacts generated as part of the process in its most recent baseline version:
 - Use Case Diagram (Version 3.0.0)
+
 ![Use Case Diagram (Version 3.0.0)](https://github.com/hjanssena/FIS-Proyecto/blob/PD-3/Assets/Diagram.png)
 
 Throughout the development of the project, version control of the use case diagram was carried out with the objective of correctly reflecting the changes made to the requirements and showing in a clear and concrete way the interactions between users and the system. In total, three versions of the artifact were handled, the main differences of which stand out in the level of complexity of the diagram and the number of requirements shown in it.
@@ -17,7 +18,9 @@ The work team opted to create a baseline of the artifact for the first delivery,
   - Has the version of the artifact been reviewed and accepted by the entire development team, as well as by the product owner?
 
 - List of requirements (Version 3.0.0)
+
 ![List of requirements (Version 3.0.0)](https://github.com/hjanssena/FIS-Proyecto/blob/PD-3/Assets/Req.png)
+
 
 Likewise, a configuration was presented to the requirements element to more accurately represent the scale of the project and specify more clearly the functionalities that the system must have. The artifact had 3 baselines that differ in the level of detail with which the requirements are described, as well as in the number of functionalities that the system will support and the quality of the writing of each of them.
 
@@ -30,4 +33,5 @@ For the artifact of the requirements table, version control of the baseline was 
   - Does each requirement accurately, clearly and concretely describe a functionality of the system without leaving room for ambiguity?
 
 Link to the full breakdown of configuration management for artifacts and their versions:
+
 - [HERE!](https://github.com/hjanssena/FIS-Proyecto/tree/PD-3/Reflections/Audit%20-%20Versions)
