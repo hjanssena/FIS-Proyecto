@@ -275,7 +275,7 @@ Based on the **COSMIC** methodology, a **COSMIC** Functional Point was assigned 
 
 ---
 
-# Fundamentos 
+# References for Salaries
 
 - [Roles for software development](https://projectcor.com/es/blog/roles-fundamentales-en-un-equipo-de-desarrollo-de-software/ )
 
