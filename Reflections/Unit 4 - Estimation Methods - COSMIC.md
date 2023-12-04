@@ -232,7 +232,7 @@ Based on the **COSMIC** methodology, a **COSMIC** Functional Point was assigned 
 
 <table>
     <tr>
-        <th><b>Nombre</b></th>
+        <th><b>Name</b></th>
         <th>Experience</th>
         <th>Salary and roles</th>
     </tr>
