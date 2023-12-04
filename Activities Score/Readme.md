@@ -7,7 +7,7 @@ The activities carried out and the percentage of participation of each team memb
 ##  Contribution Metrics
 
 | Activity   | 	Responsible 1  | 	Responsible 2 | 	Responsible 3  | 	Responsible 4 | Weight |
-| ---------- | :---------:     | :----------:     | :----------:       |                  |        |
+| ---------- | :---------:     | :----------:     | :----------:       | :----------:  | :----------:|
 |Unit 4 - Estimation Methods - COSMIC.md| Pablo | Emiliano| Edwing| Sofia |    4    |
 |Unit 4 - Estimation Methods - WBS.md| Hugo | N/A | N/A | N/A | 4 |
 |Unit 4 - Estimation Methods - Gantt Chart.md | Hugo | N/A| N/A| N/A |  2  |
