@@ -277,10 +277,10 @@ Based on the **COSMIC** methodology, a **COSMIC** Functional Point was assigned 
 
 # Fundamentos 
 
-- [Roles para el desarrollo de software:](https://projectcor.com/es/blog/roles-fundamentales-en-un-equipo-de-desarrollo-de-software/ )
+- [Roles for software development](https://projectcor.com/es/blog/roles-fundamentales-en-un-equipo-de-desarrollo-de-software/ )
 
-- [salarios](https://mx.computrabajo.com/salarios/ingeniero-software)
+- [Salary](https://mx.computrabajo.com/salarios/ingeniero-software)
 
-- [hackerrank](https://www.hackerrank.com/research/developer-skills/2023)
+- [Hackerrank](https://www.hackerrank.com/research/developer-skills/2023)
  
-- [sueldos](https://www.glassdoor.com.mx/Sueldos/scrum-master-sueldo-SRCH_KO0,12.htm#:~:text=El%20sueldo%20promedio%20de%20Scrum,de%20entre%20%2420%2C000%20y%20%2482%2C437.)
+- [Salaries](https://www.glassdoor.com.mx/Sueldos/scrum-master-sueldo-SRCH_KO0,12.htm#:~:text=El%20sueldo%20promedio%20de%20Scrum,de%20entre%20%2420%2C000%20y%20%2482%2C437.)
