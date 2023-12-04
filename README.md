@@ -19,8 +19,10 @@ This performance test consisted of applying management with estimation, quality,
 
 Additionally, two infographics were produced summarizing what was done in this activity:
 
-- [Link to the first infographic]()
-- [Link to the second infographic]()
+![infographic 1°]()
+![infographic 2°]()
+
+- [Link to the infographics in PDF]()
 
 ## Link to the first infographic
 
