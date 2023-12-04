@@ -1,1 +1,1 @@
-![Gantt_Diagram]()
+![Gantt_Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/PD-3/Assets/GANTT.png)

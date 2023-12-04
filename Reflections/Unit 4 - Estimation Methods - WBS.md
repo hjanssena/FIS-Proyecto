@@ -1,1 +1,1 @@
-![WBS]()
+![WBS](https://github.com/hjanssena/FIS-Proyecto/blob/PD-3/Assets/WBS.png)
