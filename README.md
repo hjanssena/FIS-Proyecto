@@ -13,13 +13,17 @@
  - Edwing Mauricio Molina Chim
  - Sofia Reyes Rodriguez
 
-[**Contribution metrics**](https://github.com/hjanssena/FIS-Proyecto/blob/efe13d9febb6078c260aff66990ea7068eb0e827/Activities%20Score/Activities%20FIS%20PD3.xlsx)
+[**Contribution metrics**](https://github.com/hjanssena/FIS-Proyecto/blob/d281ff3e481f1199e963c3eae8f6184afbd5b178/Activities%20Score/Readme.md)
  
 This performance test consisted of applying management with estimation, quality, and management methods based on the software project that has been worked on throughout the semester.
 
 Additionally, two infographics were produced summarizing what was done in this activity:
 
+**First infographic**
+
 ![infographic 1°](https://github.com/hjanssena/FIS-Proyecto/blob/efe13d9febb6078c260aff66990ea7068eb0e827/Artifacts/Infographic%201%20for%20PD3%20PitSTOP.png)
+
+**Second infographic**
 ![infographic 2°](https://github.com/hjanssena/FIS-Proyecto/blob/efe13d9febb6078c260aff66990ea7068eb0e827/Artifacts/Infographic%202%20for%20PD3%20PitSTOP.png)
 
 - [Link to the infographics in PDF](https://github.com/hjanssena/FIS-Proyecto/blob/efe13d9febb6078c260aff66990ea7068eb0e827/Artifacts/Infographics%20for%20PD3%20PitSTOP.pdf)
