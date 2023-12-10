@@ -15,15 +15,15 @@
 ## TEAM
 
 ### SCRUM master
- - [Hugo de Jesús Janssen Aguilar]() 
+ - [Hugo de Jesús Janssen Aguilar]
  
 ### Development team
- - [Emiliano Contreras Gamboa]() 
- - [Alejandro Magdiel Duran Varela]() 
- - [Capi Madera de Regil]() 
- - [Jose Pablo Martinez Martinez](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Skills/Individual%20Construtive%20Criticism/JPabloMartinezMartinez.md) 
- - [Edwing Mauricio Molina Chim]() 
- - [Sofia Reyes Rodriguez]() 
+ - [Emiliano Contreras Gamboa]
+ - [Alejandro Magdiel Duran Varela]
+ - [Capi Madera de Regil]
+ - [Jose Pablo Martinez Martinez]
+ - [Edwing Mauricio Molina Chim]
+ - [Sofia Reyes Rodriguez]
 
  [About us](https://github.com/hjanssena/FIS-Proyecto/blob/d2fd9247f7674d00f5f3e6a4571037e2c3424940/About.md)
 
@@ -35,15 +35,19 @@
 
 ### Product evolution
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+For the third installment, it was decided that the appointment function is not essential for a small workshop, since the daily vehicle flow they have is small (10 or less) and it will be an additional input function that will only increase the complexity of the system.  
+  
+Additionally, a requirement was specified to control the notifications that the application sends regarding status updates to the current open orders.
 
 ### Users
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+The primary user will be any automotive vehicle repair shop that receives no more than approximately 15 vehicles per day. The system functions will be designed for the operation of this type of business and the common structure of their teams.
+
+As a secondary user, other repair businesses that are not related to vehicles but share a similar structure, such as air conditioning, computer, or cell phone repair shops, will also benefit from this system.
 
 ### Innovation
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Many systems have an abundance of functions and demand a significant amount of time from the end user to keep up. **The innovation is a that the system can be seamlessly integrated into the automotive business's operations without requiring drastic changes in how the workshop operates or extensive training**. It will include the most important functions in a simple and concise manner, ensuring that the system serves as a helpful tool rather than a hindrance that consumes the user's time.
 
 ### More information about the product
 
@@ -55,11 +59,11 @@
 
 ### Requirements evolution
 
-During the course of this third delivery, the creation of mid-fidelity prototypes and the validation of use cases through potential clients made us realize that, according to the users' needs, we would have to add functional requirements that were not previously considered in the previous deliveries.
+During the course of this third delivery, the development of medium-fidelity prototypes and the validation of use cases through potential clients made us realize that, according to user needs, we might have to add functional requirements. Therefore, we once again applied the MoSCoW method to all our requirements, both new and previously defined. This led us to identify the need to remove one of the previously defined functional requirements and add two new ones. 
 
-In comparison with the second delivery, the definition of our previous functional requirements did not undergo significant changes, as they were well-defined. Instead, we focused on properly defining the new functional requirements.
+In comparison with the second delivery, the definition of our previous functional requirements remained largely unchanged, as those we decided to keep were well defined. Instead, our focus was on accurately defining the new functional requirements. 
 
-On the other hand, there were no changes in the non-functional requirements, as it was not necessary and would only increase the workload, slowing down the project development.
+On the other hand, there were no changes to the non-functional requirements, as it was deemed unnecessary and would only increase the workload, slowing down the project's development. 
 
 **Comparison between old and new requirements**
 
@@ -68,9 +72,9 @@ On the other hand, there were no changes in the non-functional requirements, as 
   
 ### Artifact Refinement
 
-The use case diagram created in the second delivery was unnecessarily complicated. Additionally, with the addition of new requirements, it was necessary to modify said use case diagram. The new use case diagram is simpler, aiming to highlight only the flow of functionalities accessible to different users in the PitSTOP system.
+The use case diagram created in the second delivery was unnecessarily complicated. Additionally, with the addition of new requirements, it was necessary to modify said use case diagram. The new use case diagram is simpler, aiming to highlight only the flow of functionalities accessible to different users in the PitSTOP system. 
 
-In comparison with the second delivery, we now have the use case specifications for all functional requirements. We will use these to create functional prototypes and validate them with end-users, that is, the clients."
+In comparison to the second delivery, we now have the use case specifications for all the functional requirements. These specifications were utilized to create functional prototypes, which were subsequently validated through informal testing with end users, specifically, the leaders of automotive workshops. 
 
 - [NEW Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/UML%20Use%20Case%20Diagram%20for%20PitSTOP.pdf)
 - [OLD Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/OLD%20UML%20Use%20Case%20Diagram.pdf)
@@ -82,7 +86,12 @@ In comparison with the second delivery, we now have the use case specifications 
 - [Final requirements]()
 
 ## TESTS
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+To conduct informal tests, it was essential to first define the indicators we intended to measure through these tests. Therefore, a simplified testing protocol was developed. This protocol listed the categories to be measured along with their respective indicators. In summary, the categories to be evaluated with their indicators were: 
+
+For the protocol, the decision was made to test each system requirement. This approach implicitly tested the integration of the complete functional flow of the software. 
+
+Finally, with the intention of standardizing the tests for users as much as possible, the testing environment conditions were defined. This serves as a guide for the conditions under which the majority of informal tests should be conducted. 
 
 - [Informal tests]()
 - [RESULTS]()
@@ -95,25 +104,26 @@ In comparison with the second delivery, we now have the use case specifications 
 
 ## Process
 
-### About the process
-
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
-#### Learn more about the process
+#### Learn about the process
 - [Process description!](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Roles%20%26%20Organization/Process%20description.md)
   
 - [Process management!](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Roles%20%26%20Organization/Process%20Management.md)
 
 ## Design (UI/UX)
 
-We created a user interface [prototype](https://www.figma.com/file/QQ6kXK1QVzeRAKcwilSRc7/Untitled?type=design&node-id=0%3A1&mode=design&t=ySZoxSK7i5XqvvHG-1), which was made using [Figma](https://www.figma.com/).
+We created a user interface [Low fidelity prototype](https://www.figma.com/file/QQ6kXK1QVzeRAKcwilSRc7/Untitled?type=design&node-id=0%3A1&mode=design&t=ySZoxSK7i5XqvvHG-1), which was made using [Figma](https://www.figma.com/).
 
 ![Prototype Desing in Figma](https://github.com/hjanssena/FIS-Proyecto/blob/b873a4763e74532b2753ef036a7a9e3d2faa23b6/Artifacts/Figma%20prototype%20for%20PitSTOP.png)
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+With the low-fidelity prototype generated in the second delivery and once we had well-defined the flow that our software would have, we set out to generate a high-fidelity prototype in this third delivery. The main objective of creating this prototype was to showcase it to end-users. In this way, it would serve to conduct informal tests and gather important information for the development of PitSTOP.
 
-## Requirements mapping
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+[High Fidelity prototype](https://www.figma.com/file/QQ6kXK1QVzeRAKcwilSRc7/Untitled?type=design&node-id=0%3A1&mode=design&t=98lkRxeclHcNMhCC-1) which was made using [Figma](https://www.figma.com/).
+
+![High Fidelity Prototype Desing in Figma]()
+
+To verify that the constructed prototypes were correct, we had to ensure that they corresponded to the requirements we had defined for PitSTOP. If you want to learn more about this process, please check the following link.
+
+- [**Learn more about Requirements correspondence**]( )
 
 ### Artifacts where the requirements were verified
 <kbd>[Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/UML%20Use%20Case%20Diagram%20for%20PitSTOP.pdf)</kbd>
@@ -122,10 +132,6 @@ We created a user interface [prototype](https://www.figma.com/file/QQ6kXK1QVzeRA
 
 <kbd>[Prototype Desing in Figma](https://www.figma.com/file/QQ6kXK1QVzeRAKcwilSRc7/Untitled?type=design&node-id=0%3A1&mode=design&t=ySZoxSK7i5XqvvHG-1)</kbd>
 
-### More information about the Design
-
-- [HERE!](https://github.com/hjanssena/FIS-Proyecto/blob/a67266a562ed61c898b735fb6d098107d0da409f/Design/README.md)
----
 
 ## SKILLS
 
