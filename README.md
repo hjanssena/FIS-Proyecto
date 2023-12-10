@@ -119,7 +119,7 @@ With the low-fidelity prototype generated in the second delivery and once we had
 
 [High Fidelity prototype](https://www.figma.com/file/QQ6kXK1QVzeRAKcwilSRc7/Untitled?type=design&node-id=0%3A1&mode=design&t=98lkRxeclHcNMhCC-1) which was made using [Figma](https://www.figma.com/).
 
-![High Fidelity Prototype Design in Figma](https://github.com/hjanssena/FIS-Proyecto/tree/TerceraEntrega/Design/Prototype%20%5BHigh%20Fidelity%5D)
+![High Fidelity Prototype Design in Figma](https://github.com/hjanssena/FIS-Proyecto/blob/TerceraEntrega/Design/Prototype%20%5BHigh%20Fidelity%5D/Menu%20Hight%20Fidelity%20Prototype.png)
 
 To verify that the constructed prototypes were correct, we had to ensure that they corresponded to the requirements we had defined for PitSTOP. If you want to learn more about this process, please check the following link.
 
