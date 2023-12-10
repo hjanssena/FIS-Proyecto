@@ -10,7 +10,7 @@ A testing protocol was designed that consists of 9 steps:
 
 4.  The user creates a new service order.
 
-5.  The user creates a new service order.
+5.  The user completes a service order.
 
 6.  The user returns to the main menu and accesses the service order history.
 
