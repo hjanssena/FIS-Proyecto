@@ -1,4 +1,4 @@
-# TEST RESULTS REPORT (SPANISH)
+# TEST RESULTS REPORT
 
 A testing protocol was designed that consists of 9 steps:
 
