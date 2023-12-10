@@ -1,4 +1,4 @@
-# TEST RESULTS REPORT (SPANISH)
+# TEST RESULTS REPORT
 
 A testing protocol was designed that consists of 9 steps:
 
@@ -8,9 +8,9 @@ A testing protocol was designed that consists of 9 steps:
 
 3.  The user logs in from the login window.
 
-4.  El usuario  crea  una  nueva  orden de servicio.
+4.  The user creates a new service order.
 
-5.  The user creates a new service order.
+5.  The user completes a service order.
 
 6.  The user returns to the main menu and accesses the service order history.
 
@@ -137,6 +137,7 @@ In addition to the test, a survey was conducted among the users at the end of it
 ### Do you have any suggestions for anything you think could be improved in the app?
 
 ![Pregunta  9](https://atsuro0.s-ul.eu/6aoLqHmS)
+
 Only one user left us a suggestion about a function to take photos of the vehicles when opening the order as a car inventory. It is a good proposal and would be worth considering for future versions.
 
 Analyzing the results of the survey, in general, the users understood the flow of the application with a certain mastery during the time the test lasted, only two of them told us that some parts are somewhat friendly and confusing. We could relate this to Step 5, which was confusing for all users.
