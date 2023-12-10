@@ -123,14 +123,14 @@ With the low-fidelity prototype generated in the second delivery and once we had
 
 To verify that the constructed prototypes were correct, we had to ensure that they corresponded to the requirements we had defined for PitSTOP. If you want to learn more about this process, please check the following link.
 
-- [**Learn more about Requirements correspondence**]( )
+- [**Learn more about Requirements correspondence**](https://github.com/hjanssena/FIS-Proyecto/tree/TerceraEntrega/Design)
 
 ### Artifacts where the requirements were verified
 <kbd>[Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/TerceraEntrega/Artifacts/UML%20Use%20Case%20Diagram%20for%20PitSTOP.pdf)</kbd>
 
 <kbd>[Use Case Specification](https://github.com/hjanssena/FIS-Proyecto/tree/TerceraEntrega/Design/Prototype%20%5BHigh%20Fidelity%5D)</kbd>
 
-<kbd>[Prototype Design in Figma]()</kbd>
+<kbd>[Prototype Design in Figma](https://www.figma.com/file/QQ6kXK1QVzeRAKcwilSRc7/Untitled?type=design&node-id=0%3A1&mode=design&t=98lkRxeclHcNMhCC-1)</kbd>
 
 ## SKILLS
 
