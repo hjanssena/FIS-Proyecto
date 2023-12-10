@@ -25,7 +25,7 @@
  - [Edwing Mauricio Molina Chim]
  - [Sofia Reyes Rodriguez]
 
- [About us](https://github.com/hjanssena/FIS-Proyecto/blob/d2fd9247f7674d00f5f3e6a4571037e2c3424940/About.md)
+ [About us](https://github.com/hjanssena/FIS-Proyecto/blob/TerceraEntrega/About.md)
 
 ## About Our Product - PitSTOP
 
@@ -51,7 +51,7 @@ Many systems have an abundance of functions and demand a significant amount of t
 
 ### More information about the product
 
-- [HERE!](https://github.com/hjanssena/FIS-Proyecto/tree/8bcf9cf14cb7ba1417732637ee52c1f7d38d323a/Product)
+- [HERE!](https://github.com/hjanssena/FIS-Proyecto/tree/TerceraEntrega/Product)
 
 ## Requirements
 
@@ -67,8 +67,8 @@ On the other hand, there were no changes to the non-functional requirements, as 
 
 **Comparison between old and new requirements**
 
-- [New Requirements!](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/Functional%20and%20Non-Functional%20Requirements.pdf) 
-- [Old Requirements!](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/OLD%20Functional%20and%20Non-Functional%20Requirements.pdf)
+- [New Requirements!](https://github.com/hjanssena/FIS-Proyecto/blob/TerceraEntrega/Artifacts/Functional%20and%20Non-Functional%20Requirements.pdf) 
+- [Old Requirements!](https://github.com/hjanssena/FIS-Proyecto/blob/TerceraEntrega/Artifacts/OLD%20Functional%20and%20Non-Functional%20Requirements.pdf)
   
 ### Artifact Refinement
 
@@ -76,14 +76,14 @@ The use case diagram created in the second delivery was unnecessarily complicate
 
 In comparison to the second delivery, we now have the use case specifications for all the functional requirements. These specifications were utilized to create functional prototypes, which were subsequently validated through informal testing with end users, specifically, the leaders of automotive workshops. 
 
-- [NEW Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/UML%20Use%20Case%20Diagram%20for%20PitSTOP.pdf)
-- [OLD Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/OLD%20UML%20Use%20Case%20Diagram.pdf)
+- [NEW Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/TerceraEntrega/Artifacts/UML%20Use%20Case%20Diagram%20for%20PitSTOP.pdf)
+- [OLD Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/TerceraEntrega/Artifacts/OLD%20UML%20Use%20Case%20Diagram.pdf)
 
-- [Use Case Specifications](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/Use%20case%20specifications.md)
+- [Use Case Specifications](https://github.com/hjanssena/FIS-Proyecto/blob/TerceraEntrega/Artifacts/Use%20case%20specifications.md)
 
 ### _Final requirements_
 
-- [Final requirements]()
+- [Final requirements](https://github.com/hjanssena/FIS-Proyecto/blob/TerceraEntrega/Artifacts/Functional%20and%20Non-Functional%20Requirements.pdf)
 
 ## TESTS
 
@@ -93,8 +93,8 @@ For the protocol, the decision was made to test each system requirement. This ap
 
 Finally, with the intention of standardizing the tests for users as much as possible, the testing environment conditions were defined. This serves as a guide for the conditions under which the majority of informal tests should be conducted. 
 
-- [Informal tests]()
-- [RESULTS]()
+- [Informal tests](https://github.com/hjanssena/FIS-Proyecto/tree/TerceraEntrega/Informal%20Tests)
+- [RESULTS](https://github.com/hjanssena/FIS-Proyecto/blob/TerceraEntrega/Informal%20Tests/test-results-report.md)
 
 ## Our video [Third delivery]
 
@@ -105,9 +105,9 @@ Finally, with the intention of standardizing the tests for users as much as poss
 ## Process
 
 #### Learn about the process
-- [Process description!](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Roles%20%26%20Organization/Process%20description.md)
+- [Process description!](https://github.com/hjanssena/FIS-Proyecto/blob/TerceraEntrega/Roles%20%26%20Organization/Process%20description.md)
   
-- [Process management!](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Roles%20%26%20Organization/Process%20Management.md)
+- [Process management!](https://github.com/hjanssena/FIS-Proyecto/blob/TerceraEntrega/Roles%20%26%20Organization/Process%20Management.md)
 
 ## Design (UI/UX)
 
@@ -119,24 +119,23 @@ With the low-fidelity prototype generated in the second delivery and once we had
 
 [High Fidelity prototype](https://www.figma.com/file/QQ6kXK1QVzeRAKcwilSRc7/Untitled?type=design&node-id=0%3A1&mode=design&t=98lkRxeclHcNMhCC-1) which was made using [Figma](https://www.figma.com/).
 
-![High Fidelity Prototype Desing in Figma]()
+![High Fidelity Prototype Design in Figma](https://github.com/hjanssena/FIS-Proyecto/tree/TerceraEntrega/Design/Prototype%20%5BHigh%20Fidelity%5D)
 
 To verify that the constructed prototypes were correct, we had to ensure that they corresponded to the requirements we had defined for PitSTOP. If you want to learn more about this process, please check the following link.
 
 - [**Learn more about Requirements correspondence**]( )
 
 ### Artifacts where the requirements were verified
-<kbd>[Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Artifacts/UML%20Use%20Case%20Diagram%20for%20PitSTOP.pdf)</kbd>
+<kbd>[Use Case Diagram](https://github.com/hjanssena/FIS-Proyecto/blob/TerceraEntrega/Artifacts/UML%20Use%20Case%20Diagram%20for%20PitSTOP.pdf)</kbd>
 
-<kbd>[Use Case Specification](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EYczFlZ-P7hMvsU24l4KoicBFqIizoKz6LvKhqTFET9rjQ?e=gYGnAi)</kbd>
+<kbd>[Use Case Specification](https://github.com/hjanssena/FIS-Proyecto/tree/TerceraEntrega/Design/Prototype%20%5BHigh%20Fidelity%5D)</kbd>
 
-<kbd>[Prototype Desing in Figma](https://www.figma.com/file/QQ6kXK1QVzeRAKcwilSRc7/Untitled?type=design&node-id=0%3A1&mode=design&t=ySZoxSK7i5XqvvHG-1)</kbd>
-
+<kbd>[Prototype Design in Figma]()</kbd>
 
 ## SKILLS
 
-- [Specific skills!](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Skills/Specific-skills.md)
-- [General skills!](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Skills/General-skills.md)
+- [Specific skills!](https://github.com/hjanssena/FIS-Proyecto/blob/TerceraEntrega/Skills/Specific-skills.md)
+- [General skills!](https://github.com/hjanssena/FIS-Proyecto/blob/TerceraEntrega/Skills/General-skills.md)
 
-- [**Constructive Criticism!**](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Skills/Constructive%20Criticism.md)
+- [**Constructive Criticism!**](https://github.com/hjanssena/FIS-Proyecto/blob/TerceraEntrega/Skills/Constructive%20Criticism.md)
 
