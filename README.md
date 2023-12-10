@@ -7,7 +7,7 @@
 ### Group A - FIS
 ### Edgar Cambranes Martínez
 =======
-### [Checklist](https://github.com/hjanssena/FIS-Proyecto/blob/192b77157b33306f8421d3f8b9538621afe915f8/Activities%20score/LIS%20FIS%202023-ChecklList.xlsx)
+### [Checklist](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EYCyArqDbMZLji0gmC0ESroBZouk-K69I00N-6RHBvAKmg?e=eophYM)
 ---
 ## Video presentation - Third delivery
 - [HERE!](https://www.youtube.com/watch?v=wprizh_5anM)
