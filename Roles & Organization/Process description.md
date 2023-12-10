@@ -1,19 +1,75 @@
 # PROCESS DESCRIPTION
 
-## ORGANIZATION AND CHANGES
+## ORGANIZATION
 
 ![Incremental Model](https://github.com/hjanssena/FIS-Proyecto/blob/d477df6f79f3043d7cbdc53d867a9d89e478cbe1/Assets/Incremental%20Model.jpg)
 
-In the previous delivery, we mentioned that we used elements of the Agile SCRUM methodology; however, for this second delivery, we did not follow the same process because it was not proving to be efficient, and we had more time to complete the delivery. 
+During the project development and for each of the deliveries, we have been using an adapted version of the agile SCRUM methodology.
 
-For this second delivery, we have employed concepts from the incremental lifecycle, implementing them in small sprints while incorporating some features of the Agile SCRUM methodology. We can observe the incremental lifecycle in our project. For example, to complete the review and validation of requirements, we had to deliver an initial version. After receiving group feedback and making necessary adjustments, we had to update the requirements and create new artifacts. 
+For this third delivery, we incorporated concepts from the incremental lifecycle, implementing them in small iterations while integrating some features of the agile SCRUM methodology. The incremental lifecycle is observable in our project. For example, during the prototype creation, there were functionalities that we considered implementing to enhance the software quality.
 
-Additionally, we prioritized each of the requirements to complete the prototype first and see if it worked. If there was any ambiguity in the requirement, we had to refine it and improve the existing prototype. We chose this development model because of the advantages it offers when working on a small system, allowing us to reduce risks during software development. As explained, this model makes it easier to determine the correctness of planned requirements for subsequent stages, and if we make a mistake in defining requirements, we don't have to start over; we can simply redefine or discard the requirement. 
+Additionally, we prioritized each requirement to complete the prototype first and verify its functionality. We chose this development model for its advantages in working on a small system, allowing us to reduce risks during software development. As explained, this model facilitates determining the correctness of planned requirements for subsequent stages, and if an error occurs in defining requirements, we don't have to start over; we can simply redefine or discard the requirement.
 
-Regarding the use of the SCRUM Agile methodology, we did not utilize all its elements for our project, but only the features we considered relevant for our team's effective organization. The project was carried out in a series of sprints, which will be detailed later, as increments. However, daily team meetings were not conducted due to time constraints; instead, we opted for weekly meetings. We employed SCRUM roles (Product Owner, Scrum Master, and Development Team) for team organization. We began with a Product Backlog to define tasks that needed to be completed, and we adapted the concept of "Sprint Retrospective" to be conducted without the need for an in-person meeting, while maintaining a feedback-oriented approach. 
+The project proceeded in a series of iterations, detailed later as increments. However, daily team meetings were not conducted due to time constraints; instead, we opted for weekly meetings. We utilized SCRUM roles (Product Owner, Scrum Master, and Development Team) for team organization. We began with a Product Backlog to define tasks that needed to be completed and adapted the concept of "Sprint Retrospective" to be conducted without the need for an in-person meeting, maintaining a feedback-oriented approach.
 
-## SPRINTS
+## ITERATIONS (SPRINTS)
 
 ![SCRUM Process](https://github.com/hjanssena/FIS-Proyecto/blob/b960e58c090ee9386f8f16977a65ff2d079bbebc/Assets/SCRUM%20Process.jpg)
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+### First Sprint
+Start: 09/11/2023
+
+**Planning**:
+
+The goal for this sprint was to plan the distribution of tasks among all team members to maintain the weight-by-activity scheme and achieve an equitable distribution. We defined the estimation method to be used in the project, as well as the planning technique.
+
+**Activities carried out**:
+
+- Task distribution
+- Definition of the estimation method
+- Planning technique
+
+### Second Sprint
+Start: 16/10/2023
+
+**Planning**:
+As the product delivery for this sprint, we planned to finish the specifications of use cases, as well as the change history between the first, second, and third deliveries, the final artifact for measuring user test results.
+
+**Activities carried out**:
+
+- Use case diagram
+- Drafting design correspondence
+- Completing use case specifications
+- Drafting the change history between the first, second, and third deliveries
+- Defining users and innovation
+
+---
+
+### Third Sprint
+
+Start: 23/11/2023
+
+**Planning**:
+
+The team determined that the sprint's goal would be the implementation of user tests, as well as the creation of the results report. Different resources for the video, audio recordings, presentation, and documentation in the GitHub repository were planned.
+
+**Activities carried out**:
+
+- Defining tasks for the delivery
+- Final review of requirements
+- Use case diagram and its corrections
+- Completing use case specifications
+- Creating high-fidelity prototypes of the project in Figma
+- Drafting design correspondence
+- Drafting the change history between the first, second, and third deliveries (product evolution)
+- Defining users and innovation
+- Conducting informal tests
+- Analyzing and drafting results of informal tests
+- Final process description
+- Defining specific and general competencies for the third delivery
+- Video script
+- Creating a presentation for the video
+- Recording the video script
+- Recording the video script (pending)
+- Video editing
+
