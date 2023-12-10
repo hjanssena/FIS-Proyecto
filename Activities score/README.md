@@ -1,10 +1,10 @@
 ## Activities
 
-The activities performed and the percentage of participation of each team member are more detailed in the following Excel document. 
+The activities performed and the percentage of participation of each team member for the whole project are detailed in the following Excel document. 
 
-[Activities & score](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EdCuJCnOW7dBlsxNr4k1KB4BSNpG934lWuq1h9L5b6w6hg?e=MGJ72K)
+[Activities & score](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14016364_alumnos_uady_mx/EdCuJCnOW7dBlsxNr4k1KB4BSNpG934lWuq1h9L5b6w6hg?e=enf1re)
 
-## Summarized activity metrics
+## Summarized activity metrics for the third delivery
 
 | Activity   | Responsible 1 | Responsible 2 |Responsible 3| Score |
 | ---------- | :---------: | :----------: | :---------: | :---------: |
