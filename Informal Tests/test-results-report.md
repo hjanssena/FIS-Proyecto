@@ -8,7 +8,7 @@ A testing protocol was designed that consists of 9 steps:
 
 3.  The user logs in from the login window.
 
-4.  El usuario  crea  una  nueva  orden de servicio.
+4.  The user creates a new service order.
 
 5.  The user creates a new service order.
 
